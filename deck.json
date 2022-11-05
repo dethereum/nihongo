@@ -6,10 +6,11 @@
             "children": [],
             "crowdanki_uuid": "5f2aca4d-5d0e-11ed-9309-f4365065998c",
             "deck_config_uuid": "5f2bb0f8-5d0e-11ed-ac3e-f4365065998c",
-            "desc": "",
+            "desc": "Search this in the dev tools to download sentences\n\ns3mm_mejs__player s3mm_mejs__audio_single s3mm_mejs__responsive",
             "dyn": 0,
             "extendNew": 0,
             "extendRev": 0,
+            "md": true,
             "media_files": [
                 "145 Level 1-1 Saki01.mp3"
             ],
@@ -25,8 +26,7 @@
                     "guid": "i/DtXO;TR",
                     "note_model_uuid": "5f2bb0f4-5d0e-11ed-b5fc-f4365065998c",
                     "tags": [
-                        "yuta::date::2022年10月31日",
-                        "yuta::Level::1"
+                        "yuta::date::2022年10月31日::level1::situation1"
                     ]
                 }
             ]
@@ -41,19 +41,20 @@
             "extendNew": 0,
             "extendRev": 0,
             "media_files": [
-                "かな.mp3",
+                "145 Level 1-1 Ken01.mp3",
+                "145 Level 1-1 Ken02.mp3",
+                "145 Level 1-1 Saki02.mp3",
+                "145 Level 1-1 Saki03.mp3",
                 "かんがえる.mp3",
                 "このまえ.mp3",
                 "ごはん.mp3",
-                "じゃあ.mp3",
                 "すこし.mp3",
                 "たべる.mp3",
                 "とか.mp3",
                 "なに.mp3",
                 "の.mp3",
                 "べつ.mp3",
-                "ぼく.mp3",
-                "よい.mp3"
+                "ぼく.mp3"
             ],
             "name": "vocab",
             "notes": [
@@ -71,8 +72,7 @@
                     "tags": [
                         "jisho::wanikani::15",
                         "jisho::wanikani::39",
-                        "yuta::date::2022年10月31日",
-                        "yuta::Level::1"
+                        "yuta::date::2022年10月31日::level1::situation1"
                     ]
                 },
                 {
@@ -90,8 +90,7 @@
                         "jisho::Colloquialism",
                         "jisho::Usually_written_using_kana_alone",
                         "jisho::wanikani::5",
-                        "yuta::date::2022年10月31日",
-                        "yuta::Level::1"
+                        "yuta::date::2022年10月31日::level1::situation1"
                     ]
                 },
                 {
@@ -107,14 +106,13 @@
                     "note_model_uuid": "5f2bb0fb-5d0e-11ed-ab14-f4365065998c",
                     "tags": [
                         "jisho::wanikani::6",
-                        "yuta::date::2022年10月31日",
-                        "yuta::Level::1"
+                        "yuta::date::2022年10月31日::level1::situation1"
                     ]
                 },
                 {
                     "__type__": "Note",
                     "fields": [
-                        "一寸",
+                        "ちょっと",
                         "ちょっと",
                         "",
                         "a little, a bit, slightly",
@@ -124,8 +122,7 @@
                     "note_model_uuid": "5f2bb0fb-5d0e-11ed-ab14-f4365065998c",
                     "tags": [
                         "jisho::Usually_written_using_kana_alone",
-                        "yuta::date::2022年10月31日",
-                        "yuta::Level::1"
+                        "yuta::date::2022年10月31日::level1::situation1"
                     ]
                 },
                 {
@@ -141,24 +138,24 @@
                     "note_model_uuid": "5f2bb0fb-5d0e-11ed-ab14-f4365065998c",
                     "tags": [
                         "jisho::wanikani::5",
-                        "yuta::date::2022年10月31日",
+                        "yuta::date::2022年10月31日::level1::situation1",
                         "yuta::Level::1"
                     ]
                 },
                 {
                     "__type__": "Note",
                     "fields": [
-                        "良い",
-                        "よい",
-                        "[sound:よい.mp3]",
+                        "いい",
+                        "いい",
+                        "",
                         "good, excellent, fine, nice, pleasant, agreeable",
-                        "I-adjective (keiyoushi)"
+                        "I-Adjective (keiyoushi) - yoi/ii class"
                     ],
                     "guid": "r|2haEgSB-",
                     "note_model_uuid": "5f2bb0fb-5d0e-11ed-ab14-f4365065998c",
                     "tags": [
                         "jisho::wanikani::11",
-                        "yuta::date::2022年10月31日",
+                        "yuta::date::2022年10月31日::level1::situation1",
                         "yuta::Level::1"
                     ]
                 },
@@ -167,21 +164,21 @@
                     "fields": [
                         "かな",
                         "かな",
-                        "[sound:かな.mp3]",
+                        "",
                         "I wonder",
                         "Particle"
                     ],
                     "guid": "qz.uH~UC7f",
                     "note_model_uuid": "5f2bb0fb-5d0e-11ed-ab14-f4365065998c",
                     "tags": [
-                        "yuta::date::2022年10月31日",
+                        "yuta::date::2022年10月31日::level1::situation1",
                         "yuta::Level::1"
                     ]
                 },
                 {
                     "__type__": "Note",
                     "fields": [
-                        "拉麺",
+                        "ラーメン",
                         "ラーメン",
                         "",
                         "ramen, Chinese-style noodles",
@@ -201,15 +198,14 @@
                         "とか",
                         "とか",
                         "[sound:とか.mp3]",
-                        "and the like, such as, among other things, and so on",
-                        "Particle, Conjunction"
+                        "or something; something like; or whatever​",
+                        "Expressions (phrases, clauses, etc.), Particle"
                     ],
                     "guid": "ARZIX)e6-*",
                     "note_model_uuid": "5f2bb0fb-5d0e-11ed-ab14-f4365065998c",
                     "tags": [
                         "jisho::Colloquialism",
-                        "yuta::date::2022年10月31日",
-                        "yuta::Level::1"
+                        "yuta::date::2022年10月31日::level1::situation1"
                     ]
                 },
                 {
@@ -242,8 +238,7 @@
                     "note_model_uuid": "5f2bb0fb-5d0e-11ed-ab14-f4365065998c",
                     "tags": [
                         "jisho::Colloquialism",
-                        "yuta::date::2022年10月31日",
-                        "yuta::Level::1"
+                        "yuta::date::2022年10月31日::level1::situation1"
                     ]
                 },
                 {
@@ -251,15 +246,14 @@
                     "fields": [
                         "じゃあ",
                         "じゃあ",
-                        "[sound:じゃあ.mp3]",
+                        "",
                         "then, well, so, well then",
                         "Conjunction"
                     ],
                     "guid": "wpDR::X,7X",
                     "note_model_uuid": "5f2bb0fb-5d0e-11ed-ab14-f4365065998c",
                     "tags": [
-                        "yuta::date::2022年10月31日",
-                        "yuta::Level::1"
+                        "yuta::date::2022年10月31日::level1"
                     ]
                 },
                 {
@@ -274,8 +268,8 @@
                     "guid": "gWKhh,X}Z#",
                     "note_model_uuid": "5f2bb0fb-5d0e-11ed-ab14-f4365065998c",
                     "tags": [
-                        "yuta::date::2022年10月31日",
-                        "yuta::Level::1"
+                        "jisho::wanikani::11",
+                        "yuta::date::2022年10月31日::level1::situation1"
                     ]
                 },
                 {
@@ -284,15 +278,13 @@
                         "の",
                         "の",
                         "[sound:の.mp3]",
-                        "indicates possessive",
+                        "nominalizes verbs and adjectives",
                         "Particle"
                     ],
                     "guid": "K1*$wlM8N%",
                     "note_model_uuid": "5f2bb0fb-5d0e-11ed-ab14-f4365065998c",
                     "tags": [
-                        "jisho::Female_term_or_language",
-                        "yuta::date::2022年10月31日",
-                        "yuta::Level::1"
+                        "yuta::date::2022年10月31日::level1::situation1"
                     ]
                 },
                 {
@@ -467,6 +459,58 @@
                         "jisho::Usually_written_using_kana_alone",
                         "yuta::date::2022年10月31日",
                         "yuta::Level::1"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "ちょっと考える。何がいいかな",
+                        "[sound:145 Level 1-1 Ken01.mp3]",
+                        " I will think about it a little. What would be good?"
+                    ],
+                    "guid": "c4kGOu`qVu",
+                    "note_model_uuid": "5f2bb0f4-5d0e-11ed-b5fc-f4365065998c",
+                    "tags": [
+                        "yuta::date::2022年10月31日::level1::situation1"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "ラーメンとか？",
+                        "[sound:145 Level 1-1 Saki02.mp3]",
+                        "Maybe something like ramen?"
+                    ],
+                    "guid": "k8oq_?+4Qr",
+                    "note_model_uuid": "5f2bb0f4-5d0e-11ed-b5fc-f4365065998c",
+                    "tags": [
+                        "yuta::date::2022年10月31日::level1::situation1"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "この前も食べたじゃん",
+                        "[sound:145 Level 1-1 Ken02.mp3]",
+                        "We had it the other day, right?"
+                    ],
+                    "guid": "j~20-)[{}@",
+                    "note_model_uuid": "5f2bb0f4-5d0e-11ed-b5fc-f4365065998c",
+                    "tags": [
+                        "yuta::date::2022年10月31日::level1::situation1"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "じゃ、別の考えよう",
+                        "[sound:145 Level 1-1 Saki03.mp3]",
+                        "Then, let’s think of another one."
+                    ],
+                    "guid": "bgrZKf7KQ,",
+                    "note_model_uuid": "5f2bb0f4-5d0e-11ed-b5fc-f4365065998c",
+                    "tags": [
+                        "yuta::date::2022年10月31日::level1::situation1"
                     ]
                 }
             ]
