@@ -12,7 +12,23 @@
             "extendRev": 0,
             "md": true,
             "media_files": [
-                "145 Level 1-1 Saki01.mp3"
+                "145 Level 1-1 Saki01.mp3",
+                "145 Level 1-2 Eri01.mp3",
+                "145 Level 1-2 Eri02.mp3",
+                "145 Level 1-2 Eri03.mp3",
+                "145 Level 1-2 Takeru01.mp3",
+                "145 Level 1-2 Takeru02.mp3",
+                "145 Level 1-2 Takeru03.mp3",
+                "145 Level 1-3 Kiyoshi01.mp3",
+                "145 Level 1-3 Kiyoshi02.mp3",
+                "145 Level 1-3 Kiyoshi03.mp3",
+                "145 Level 1-3 Yuko01.mp3",
+                "145 Level 1-3 Yuko02.mp3",
+                "145 Level 1-3 Yuko03.mp3",
+                "145 Level 1-4 Kanako01.mp3",
+                "145 Level 1-4 Kanako02.mp3",
+                "145 Level 1-4 Sho01.mp3",
+                "145 Level 1-4 Sho02.mp3"
             ],
             "name": "sentences",
             "notes": [
@@ -27,6 +43,214 @@
                     "note_model_uuid": "5f2bb0f4-5d0e-11ed-b5fc-f4365065998c",
                     "tags": [
                         "yuta::date::2022年10月31日::level1::situation1"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "ギター、うまいですね！",
+                        "[sound:145 Level 1-2 Takeru01.mp3]",
+                        "You are good at playing the guitar!"
+                    ],
+                    "guid": "Hw289x$#rz",
+                    "note_model_uuid": "5f2bb0f4-5d0e-11ed-b5fc-f4365065998c",
+                    "tags": [
+                        "yuta::date::2022年10月31日::level1::situation2"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "ありがとうございます",
+                        "[sound:145 Level 1-2 Eri01.mp3]",
+                        "Thank you."
+                    ],
+                    "guid": "x%0}$mEVrt",
+                    "note_model_uuid": "5f2bb0f4-5d0e-11ed-b5fc-f4365065998c",
+                    "tags": [
+                        "yuta::date::2022年10月31日::level1::situation2"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "僕もやってみたいな",
+                        "[sound:145 Level 1-2 Takeru02.mp3]",
+                        "I want to try it too."
+                    ],
+                    "guid": "pG.n/V_oz@",
+                    "note_model_uuid": "5f2bb0f4-5d0e-11ed-b5fc-f4365065998c",
+                    "tags": [
+                        "yuta::date::2022年10月31日::level1::situation2"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "少しやってみますか",
+                        "[sound:145 Level 1-2 Eri02.mp3]",
+                        "Do you want to try it a little?"
+                    ],
+                    "guid": "lLl.Yh-9Q7",
+                    "note_model_uuid": "5f2bb0f4-5d0e-11ed-b5fc-f4365065998c",
+                    "tags": [
+                        "yuta::date::2022年10月31日::level1::situation2"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "いいんですか",
+                        "[sound:145 Level 1-2 Takeru03.mp3]",
+                        "Is it fine?"
+                    ],
+                    "guid": "v?dS^_DU(w",
+                    "note_model_uuid": "5f2bb0f4-5d0e-11ed-b5fc-f4365065998c",
+                    "tags": [
+                        "yuta::date::2022年10月31日::level1::situation2"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "もちろん",
+                        "[sound:145 Level 1-2 Eri03.mp3]",
+                        "Of course"
+                    ],
+                    "guid": "p_l0VT.{~b",
+                    "note_model_uuid": "5f2bb0f4-5d0e-11ed-b5fc-f4365065998c",
+                    "tags": [
+                        "yuta::date::2022年10月31日::level1::situation2"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "ゆうこちゃん！英語できる",
+                        "[sound:145 Level 1-3 Kiyoshi01.mp3]",
+                        "Yuko-chan! Can you speak English?"
+                    ],
+                    "guid": "F`YbE7&Qe,",
+                    "note_model_uuid": "5f2bb0f4-5d0e-11ed-b5fc-f4365065998c",
+                    "tags": [
+                        "yuta::date::2022年10月31日::level1::situation3"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "ちょっとだけ",
+                        "[sound:145 Level 1-3 Yuko01.mp3]",
+                        "A little."
+                    ],
+                    "guid": "J|z+$uA}A4",
+                    "note_model_uuid": "5f2bb0f4-5d0e-11ed-b5fc-f4365065998c",
+                    "tags": [
+                        "yuta::date::2022年10月31日::level1::situation3"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "じゃ、この問題教えて",
+                        "[sound:145 Level 1-3 Kiyoshi02.mp3]",
+                        "Then, tell me (how to solve) this question."
+                    ],
+                    "guid": "LOk125#q8)",
+                    "note_model_uuid": "5f2bb0f4-5d0e-11ed-b5fc-f4365065998c",
+                    "tags": [
+                        "yuta::date::2022年10月31日::level1::situation3"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "読んでみるね",
+                        "[sound:145 Level 1-3 Yuko02.mp3]",
+                        "I’ll try reading it, ok?"
+                    ],
+                    "guid": "GcNQ4O(:4b",
+                    "note_model_uuid": "5f2bb0f4-5d0e-11ed-b5fc-f4365065998c",
+                    "tags": [
+                        "yuta::date::2022年10月31日::level1::situation3"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "どう",
+                        "[sound:145 Level 1-3 Kiyoshi03.mp3]",
+                        "How is it?"
+                    ],
+                    "guid": "J$;xPp;&e|",
+                    "note_model_uuid": "5f2bb0f4-5d0e-11ed-b5fc-f4365065998c",
+                    "tags": [
+                        "yuta::date::2022年10月31日::level1::situation3"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "ごめん。私も分かんない",
+                        "[sound:145 Level 1-3 Yuko03.mp3]",
+                        "Sorry. I don’t understand it either."
+                    ],
+                    "guid": "Mcr&<pU,Pf",
+                    "note_model_uuid": "5f2bb0f4-5d0e-11ed-b5fc-f4365065998c",
+                    "tags": [
+                        "yuta::date::2022年10月31日::level1::situation3"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "山田さん、ここやめるみたいです",
+                        "[sound:145 Level 1-4 Kanako01.mp3]",
+                        "It seems that Yamada-san is quitting this job."
+                    ],
+                    "guid": "xdu+,h/1yi",
+                    "note_model_uuid": "5f2bb0f4-5d0e-11ed-b5fc-f4365065998c",
+                    "tags": [
+                        "yuta::date::2022年10月31日::level1::situation4"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "ほんとですか？なんでですか？",
+                        "[sound:145 Level 1-4 Sho01.mp3]",
+                        "Is that true? Why is it?"
+                    ],
+                    "guid": "C9b`,IcHA4",
+                    "note_model_uuid": "5f2bb0f4-5d0e-11ed-b5fc-f4365065998c",
+                    "tags": [
+                        "yuta::date::2022年10月31日::level1::situation4"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "誰も知らないんです",
+                        "[sound:145 Level 1-4 Kanako02.mp3]",
+                        "No one knows."
+                    ],
+                    "guid": "Qqr|PoJuZ{",
+                    "note_model_uuid": "5f2bb0f4-5d0e-11ed-b5fc-f4365065998c",
+                    "tags": [
+                        "yuta::date::2022年10月31日::level1::situation4"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "後で聞いてみましょう",
+                        "[sound:145 Level 1-4 Sho02.mp3]",
+                        "Let’s ask later."
+                    ],
+                    "guid": "Hl[M5i~WLr",
+                    "note_model_uuid": "5f2bb0f4-5d0e-11ed-b5fc-f4365065998c",
+                    "tags": [
+                        "yuta::date::2022年10月31日::level1::situation4"
                     ]
                 }
             ]
@@ -45,16 +269,30 @@
                 "145 Level 1-1 Ken02.mp3",
                 "145 Level 1-1 Saki02.mp3",
                 "145 Level 1-1 Saki03.mp3",
+                "えいご.mp3",
+                "おしえる.mp3",
                 "かんがえる.mp3",
+                "きく.mp3",
+                "ここ.mp3",
+                "この.mp3",
                 "このまえ.mp3",
                 "ごはん.mp3",
                 "すこし.mp3",
                 "たべる.mp3",
+                "だけ.mp3",
+                "ちゃん.mp3",
+                "できる.mp3",
                 "とか.mp3",
+                "どう.mp3",
                 "なに.mp3",
                 "の.mp3",
                 "べつ.mp3",
-                "ぼく.mp3"
+                "ほんとう.mp3",
+                "ぼく.mp3",
+                "もんだい.mp3",
+                "やめる.mp3",
+                "よむ.mp3",
+                "わかる.mp3"
             ],
             "name": "vocab",
             "notes": [
@@ -316,8 +554,7 @@
                     "note_model_uuid": "5f2bb0fb-5d0e-11ed-ab14-f4365065998c",
                     "tags": [
                         "jisho::wanikani::11",
-                        "yuta::date::2022年10月31日",
-                        "yuta::Level::1"
+                        "yuta::date::2022年10月31日::level1::situation2"
                     ]
                 },
                 {
@@ -335,8 +572,7 @@
                         "jisho::Usually_written_using_kana_alone",
                         "jisho::wanikani::43",
                         "jisho::wanikani::50",
-                        "yuta::date::2022年10月31日",
-                        "yuta::Level::1"
+                        "yuta::date::2022年10月31日::level1::situation2"
                     ]
                 },
                 {
@@ -351,8 +587,7 @@
                     "guid": "FB(/1U^hU2",
                     "note_model_uuid": "5f2bb0fb-5d0e-11ed-ab14-f4365065998c",
                     "tags": [
-                        "yuta::date::2022年10月31日",
-                        "yuta::Level::1"
+                        "yuta::date::2022年10月31日::level1::situation2"
                     ]
                 },
                 {
@@ -369,8 +604,7 @@
                     "tags": [
                         "jisho::Male_term_or_language",
                         "jisho::wanikani::12",
-                        "yuta::date::2022年10月31日",
-                        "yuta::Level::1"
+                        "yuta::date::2022年10月31日::level1::situation2"
                     ]
                 },
                 {
@@ -386,11 +620,8 @@
                     "note_model_uuid": "5f2bb0fb-5d0e-11ed-ab14-f4365065998c",
                     "tags": [
                         "jisho::Colloquialism",
-                        "jisho::Slang",
                         "jisho::Usually_written_using_kana_alone",
-                        "jisho::Vulgar_expression_or_word",
-                        "yuta::date::2022年10月31日",
-                        "yuta::Level::1"
+                        "yuta::date::2022年10月31日::level1::situation2"
                     ]
                 },
                 {
@@ -405,8 +636,7 @@
                     "guid": "J>O#6}.9qN",
                     "note_model_uuid": "5f2bb0fb-5d0e-11ed-ab14-f4365065998c",
                     "tags": [
-                        "yuta::date::2022年10月31日",
-                        "yuta::Level::1"
+                        "yuta::date::2022年10月31日::level1::situation2"
                     ]
                 },
                 {
@@ -422,8 +652,7 @@
                     "note_model_uuid": "5f2bb0fb-5d0e-11ed-ab14-f4365065998c",
                     "tags": [
                         "jisho::wanikani::3",
-                        "yuta::date::2022年10月31日",
-                        "yuta::Level::1"
+                        "yuta::date::2022年10月31日::level1::situation2"
                     ]
                 },
                 {
@@ -439,8 +668,7 @@
                     "note_model_uuid": "5f2bb0fb-5d0e-11ed-ab14-f4365065998c",
                     "tags": [
                         "jisho::Usually_written_using_kana_alone",
-                        "yuta::date::2022年10月31日",
-                        "yuta::Level::1"
+                        "yuta::date::2022年10月31日::level1::situation2"
                     ]
                 },
                 {
@@ -457,8 +685,7 @@
                     "tags": [
                         "jisho::Polite_(teineigo)_language",
                         "jisho::Usually_written_using_kana_alone",
-                        "yuta::date::2022年10月31日",
-                        "yuta::Level::1"
+                        "yuta::date::2022年10月31日::level1::situation2"
                     ]
                 },
                 {
@@ -511,6 +738,345 @@
                     "note_model_uuid": "5f2bb0f4-5d0e-11ed-b5fc-f4365065998c",
                     "tags": [
                         "yuta::date::2022年10月31日::level1::situation1"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "ちゃん",
+                        "ちゃん",
+                        "[sound:ちゃん.mp3]",
+                        "suffix for familiar person",
+                        "Suffix"
+                    ],
+                    "guid": "ImSl*UK{N2",
+                    "note_model_uuid": "5f2bb0fb-5d0e-11ed-ab14-f4365065998c",
+                    "tags": [
+                        "jisho::Familiar_language",
+                        "yuta::date::2022年10月31日::level1::situation3"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "英語",
+                        "えいご",
+                        "[sound:えいご.mp3]",
+                        "English (language)",
+                        "Noun"
+                    ],
+                    "guid": "MA6E#FJkm{",
+                    "note_model_uuid": "5f2bb0fb-5d0e-11ed-ab14-f4365065998c",
+                    "tags": [
+                        "jisho::wanikani::15",
+                        "yuta::date::2022年10月31日::level1::situation3"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "できる",
+                        "できる",
+                        "[sound:できる.mp3]",
+                        "to be able (in a position) to do, to be up to the task",
+                        "Ichidan verb, Intransitive verb"
+                    ],
+                    "guid": "QQ1MKsgELP",
+                    "note_model_uuid": "5f2bb0fb-5d0e-11ed-ab14-f4365065998c",
+                    "tags": [
+                        "jisho::Usually_written_using_kana_alone",
+                        "jisho::wanikani::6",
+                        "yuta::date::2022年10月31日::level1::situation3"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "丈",
+                        "だけ",
+                        "[sound:だけ.mp3]",
+                        "only, just, merely, simply, no more than, nothing but, alone",
+                        "Particle"
+                    ],
+                    "guid": "D+u?N@Mp!5",
+                    "note_model_uuid": "5f2bb0fb-5d0e-11ed-ab14-f4365065998c",
+                    "tags": [
+                        "jisho::Usually_written_using_kana_alone",
+                        "yuta::date::2022年10月31日::level1::situation3"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "この",
+                        "この",
+                        "[sound:この.mp3]",
+                        "this",
+                        "Pre-noun adjectival (rentaishi)"
+                    ],
+                    "guid": "y3y7MF4X<t",
+                    "note_model_uuid": "5f2bb0fb-5d0e-11ed-ab14-f4365065998c",
+                    "tags": [
+                        "jisho::Usually_written_using_kana_alone",
+                        "yuta::date::2022年10月31日::level1::situation3"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "問題",
+                        "もんだい",
+                        "[sound:もんだい.mp3]",
+                        "question (e.g. on a test), problem",
+                        "Noun"
+                    ],
+                    "guid": "Fk$O^!gCsq",
+                    "note_model_uuid": "5f2bb0fb-5d0e-11ed-ab14-f4365065998c",
+                    "tags": [
+                        "jisho::wanikani::13",
+                        "yuta::date::2022年10月31日::level1::situation3"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "教える",
+                        "おしえる",
+                        "[sound:おしえる.mp3]",
+                        "to teach, to instruct",
+                        "Ichidan verb, Transitive verb"
+                    ],
+                    "guid": "tF*ZNTzjW8",
+                    "note_model_uuid": "5f2bb0fb-5d0e-11ed-ab14-f4365065998c",
+                    "tags": [
+                        "jisho::wanikani::7",
+                        "yuta::date::2022年10月31日::level1::situation3"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "読む",
+                        "よむ",
+                        "[sound:よむ.mp3]",
+                        "to read",
+                        "Godan verb with mu ending, Transitive verb"
+                    ],
+                    "guid": "h@wQ)ifrFI",
+                    "note_model_uuid": "5f2bb0fb-5d0e-11ed-ab14-f4365065998c",
+                    "tags": [
+                        "jisho::wanikani::10",
+                        "yuta::date::2022年10月31日::level1::situation3"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "どう",
+                        "どう",
+                        "[sound:どう.mp3]",
+                        "how, in what way, how about",
+                        "Adverb (fukushi)"
+                    ],
+                    "guid": "d4MkhaVI2k",
+                    "note_model_uuid": "5f2bb0fb-5d0e-11ed-ab14-f4365065998c",
+                    "tags": [
+                        "jisho::Usually_written_using_kana_alone",
+                        "yuta::date::2022年10月31日::level1::situation3"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "分かる",
+                        "わかる",
+                        "[sound:わかる.mp3]",
+                        "to understand, to comprehend, to grasp, to see, to get, to follow",
+                        "Godan verb with ru ending, Intransitive verb"
+                    ],
+                    "guid": "F>h;tuK>(c",
+                    "note_model_uuid": "5f2bb0fb-5d0e-11ed-ab14-f4365065998c",
+                    "tags": [
+                        "jisho::Usually_written_using_kana_alone",
+                        "jisho::wanikani::3",
+                        "yuta::date::2022年10月31日::level1::situation3"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "分かんない",
+                        "わかんない",
+                        "",
+                        "not understanding, not knowing",
+                        "Expressions (phrases, clauses, etc.), I-adjective (keiyoushi)"
+                    ],
+                    "guid": "dM(x1K~u-2",
+                    "note_model_uuid": "5f2bb0fb-5d0e-11ed-ab14-f4365065998c",
+                    "tags": [
+                        "jisho::Colloquialism",
+                        "yuta::date::2022年10月31日::level1::situation3"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "さん",
+                        "さん",
+                        "",
+                        "Mr., Mrs., Miss, Ms., -san",
+                        "Suffix"
+                    ],
+                    "guid": "w`/.A&:8Q(",
+                    "note_model_uuid": "5f2bb0fb-5d0e-11ed-ab14-f4365065998c",
+                    "tags": [
+                        "jisho::Familiar_language",
+                        "jisho::Honorific_or_respectful_(sonkeigo)_language",
+                        "jisho::Polite_(teineigo)_language",
+                        "yuta::date::2022年10月31日::level1::situation4"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "ここ",
+                        "ここ",
+                        "[sound:ここ.mp3]",
+                        "here, this place",
+                        "Pronoun"
+                    ],
+                    "guid": "i5%VBEsjx!",
+                    "note_model_uuid": "5f2bb0fb-5d0e-11ed-ab14-f4365065998c",
+                    "tags": [
+                        "jisho::Usually_written_using_kana_alone",
+                        "yuta::date::2022年10月31日::level1::situation4"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "辞める",
+                        "やめる",
+                        "[sound:やめる.mp3]",
+                        "to resign, to retire, to quit, to leave (one's job, etc.)",
+                        "Ichidan verb, Transitive verb"
+                    ],
+                    "guid": "rM*)?9{{7`",
+                    "note_model_uuid": "5f2bb0fb-5d0e-11ed-ab14-f4365065998c",
+                    "tags": [
+                        "jisho::wanikani::16",
+                        "yuta::date::2022年10月31日::level1::situation4"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "みたい",
+                        "みたい",
+                        "",
+                        "-like, sort of, similar to, resembling",
+                        "Suffix, Na-adjective (keiyodoshi)"
+                    ],
+                    "guid": "nS;r+de*my",
+                    "note_model_uuid": "5f2bb0fb-5d0e-11ed-ab14-f4365065998c",
+                    "tags": [
+                        "jisho::Colloquialism",
+                        "yuta::date::2022年10月31日::level1::situation4"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "本当",
+                        "ほんとう",
+                        "[sound:ほんとう.mp3]",
+                        "truth, reality, actuality, fact",
+                        "Noun, Noun which may take the genitive case particle 'no', Na-adjective (keiyodoshi)"
+                    ],
+                    "guid": "lJl$<rYv$?",
+                    "note_model_uuid": "5f2bb0fb-5d0e-11ed-ab14-f4365065998c",
+                    "tags": [
+                        "jisho::wanikani::5",
+                        "yuta::date::2022年10月31日::level1::situation4"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "なんで",
+                        "なんで",
+                        "",
+                        "why?, what for?",
+                        "Adverb (fukushi)"
+                    ],
+                    "guid": "stix:JunvJ",
+                    "note_model_uuid": "5f2bb0fb-5d0e-11ed-ab14-f4365065998c",
+                    "tags": [
+                        "jisho::Usually_written_using_kana_alone",
+                        "yuta::date::2022年10月31日::level1::situation4"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "誰も",
+                        "だれも",
+                        "",
+                        "everyone, anyone",
+                        "Expressions (phrases, clauses, etc.)"
+                    ],
+                    "guid": "ylwmOzf<l7",
+                    "note_model_uuid": "5f2bb0fb-5d0e-11ed-ab14-f4365065998c",
+                    "tags": [
+                        "yuta::date::2022年10月31日::level1::situation4"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "知る",
+                        "しる",
+                        "",
+                        "to know, to be aware (of), to be conscious (of), to learn (of), to find out, to discover",
+                        "Godan verb with ru ending, Transitive verb"
+                    ],
+                    "guid": "I/)pVNG5#H",
+                    "note_model_uuid": "5f2bb0fb-5d0e-11ed-ab14-f4365065998c",
+                    "tags": [
+                        "jisho::wanikani::6",
+                        "yuta::date::2022年10月31日::level1::situation4"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "後",
+                        "あと",
+                        "",
+                        "<span style=\"color: rgb(34, 34, 34); background-color: rgb(255, 255, 255);\">after; later</span><span style=\"color: rgb(34, 34, 34); background-color: rgb(255, 255, 255);\">​</span>",
+                        "Noun, Noun which may take the genitive case particle 'no'"
+                    ],
+                    "guid": "k9FZ@tZstm",
+                    "note_model_uuid": "5f2bb0fb-5d0e-11ed-ab14-f4365065998c",
+                    "tags": [
+                        "yuta::date::2022年10月31日::level1::situation4"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "聞く",
+                        "きく",
+                        "[sound:きく.mp3]",
+                        "to hear",
+                        "Godan verb with ku ending, Transitive verb"
+                    ],
+                    "guid": "E7C+ec30ml",
+                    "note_model_uuid": "5f2bb0fb-5d0e-11ed-ab14-f4365065998c",
+                    "tags": [
+                        "jisho::wanikani::10",
+                        "jisho::wanikani::37",
+                        "yuta::date::2022年10月31日::level1::situation4"
                     ]
                 }
             ]
