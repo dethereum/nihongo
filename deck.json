@@ -5,14 +5,18 @@
             "__type__": "Deck",
             "children": [],
             "crowdanki_uuid": "5f2aca4d-5d0e-11ed-9309-f4365065998c",
-            "deck_config_uuid": "5f2bb0f8-5d0e-11ed-ac3e-f4365065998c",
+            "deck_config_uuid": "d66f09d0-5dfc-11ed-b5c8-a5b405d6bdfa",
             "desc": "Search this in the dev tools to download sentences\n\ns3mm_mejs__player s3mm_mejs__audio_single s3mm_mejs__responsive",
             "dyn": 0,
             "extendNew": 0,
             "extendRev": 0,
             "md": true,
             "media_files": [
+                "145 Level 1-1 Ken01.mp3",
+                "145 Level 1-1 Ken02.mp3",
                 "145 Level 1-1 Saki01.mp3",
+                "145 Level 1-1 Saki02.mp3",
+                "145 Level 1-1 Saki03.mp3",
                 "145 Level 1-2 Eri01.mp3",
                 "145 Level 1-2 Eri02.mp3",
                 "145 Level 1-2 Eri03.mp3",
@@ -40,6 +44,58 @@
                         "What shall we eat for our meal?"
                     ],
                     "guid": "i/DtXO;TR",
+                    "note_model_uuid": "5f2bb0f4-5d0e-11ed-b5fc-f4365065998c",
+                    "tags": [
+                        "yuta::date::2022年10月31日::level1::situation1"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "ちょっと考える。何がいいかな",
+                        "[sound:145 Level 1-1 Ken01.mp3]",
+                        " I will think about it a little. What would be good?"
+                    ],
+                    "guid": "c4kGOu`qVu",
+                    "note_model_uuid": "5f2bb0f4-5d0e-11ed-b5fc-f4365065998c",
+                    "tags": [
+                        "yuta::date::2022年10月31日::level1::situation1"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "ラーメンとか？",
+                        "[sound:145 Level 1-1 Saki02.mp3]",
+                        "Maybe something like ramen?"
+                    ],
+                    "guid": "k8oq_?+4Qr",
+                    "note_model_uuid": "5f2bb0f4-5d0e-11ed-b5fc-f4365065998c",
+                    "tags": [
+                        "yuta::date::2022年10月31日::level1::situation1"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "この前も食べたじゃん",
+                        "[sound:145 Level 1-1 Ken02.mp3]",
+                        "We had it the other day, right?"
+                    ],
+                    "guid": "j~20-)[{}@",
+                    "note_model_uuid": "5f2bb0f4-5d0e-11ed-b5fc-f4365065998c",
+                    "tags": [
+                        "yuta::date::2022年10月31日::level1::situation1"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "じゃ、別の考えよう",
+                        "[sound:145 Level 1-1 Saki03.mp3]",
+                        "Then, let’s think of another one."
+                    ],
+                    "guid": "bgrZKf7KQ,",
                     "note_model_uuid": "5f2bb0f4-5d0e-11ed-b5fc-f4365065998c",
                     "tags": [
                         "yuta::date::2022年10月31日::level1::situation1"
@@ -259,16 +315,12 @@
             "__type__": "Deck",
             "children": [],
             "crowdanki_uuid": "5f2bb0f7-5d0e-11ed-832a-f4365065998c",
-            "deck_config_uuid": "5f2bb0f8-5d0e-11ed-ac3e-f4365065998c",
-            "desc": "",
+            "deck_config_uuid": "d66f7cff-5dfc-11ed-9c9f-a5b405d6bdfa",
+            "desc": "1- blue - heiban\n2 - red - atamadaka\n3 - green - nakadaka \n4  - yellow - oodaka",
             "dyn": 0,
             "extendNew": 0,
             "extendRev": 0,
             "media_files": [
-                "145 Level 1-1 Ken01.mp3",
-                "145 Level 1-1 Ken02.mp3",
-                "145 Level 1-1 Saki02.mp3",
-                "145 Level 1-1 Saki03.mp3",
                 "えいご.mp3",
                 "おしえる.mp3",
                 "かんがえる.mp3",
@@ -300,7 +352,7 @@
                     "__type__": "Note",
                     "fields": [
                         "ご飯",
-                        "ごはん",
+                        "<font color=\"#ff0000\">ごはん<!-- accent_start --><br></font><hr><br><svg class=\"pitch\" width=\"137px\" height=\"75px\" viewBox=\"0 0 137 75\"><text x=\"5\" y=\"67.5\" style=\"font-size:20px;font-family:sans-serif;fill:#000;\">ご</text><text x=\"40\" y=\"67.5\" style=\"font-size:20px;font-family:sans-serif;fill:#000;\">は</text><text x=\"75\" y=\"67.5\" style=\"font-size:20px;font-family:sans-serif;fill:#000;\">ん</text><path d=\"m 16,5 35,25\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 51,30 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 86,30 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><circle r=\"5\" cx=\"16\" cy=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle r=\"5\" cx=\"51\" cy=\"30\" style=\"opacity:1;fill:#000;\"></circle><circle r=\"5\" cx=\"86\" cy=\"30\" style=\"opacity:1;fill:#000;\"></circle><circle r=\"5\" cx=\"121\" cy=\"30\" style=\"opacity:1;fill:#000;\"></circle><circle r=\"3.25\" cx=\"121\" cy=\"30\" style=\"opacity:1;fill:#fff;\"></circle></svg><!-- accent_end -->",
                         "[sound:ごはん.mp3]",
                         "cooked rice",
                         "Noun"
@@ -317,7 +369,7 @@
                     "__type__": "Note",
                     "fields": [
                         "何",
-                        "なに",
+                        "<font color=\"#ff0000\">なに<!-- accent_start --><br></font><hr><br><svg class=\"pitch\" width=\"102px\" height=\"75px\" viewBox=\"0 0 102 75\"><text x=\"5\" y=\"67.5\" style=\"font-size:20px;font-family:sans-serif;fill:#000;\">な</text><text x=\"40\" y=\"67.5\" style=\"font-size:20px;font-family:sans-serif;fill:#000;\">に</text><path d=\"m 16,5 35,25\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 51,30 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><circle r=\"5\" cx=\"16\" cy=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle r=\"5\" cx=\"51\" cy=\"30\" style=\"opacity:1;fill:#000;\"></circle><circle r=\"5\" cx=\"86\" cy=\"30\" style=\"opacity:1;fill:#000;\"></circle><circle r=\"3.25\" cx=\"86\" cy=\"30\" style=\"opacity:1;fill:#fff;\"></circle></svg><!-- accent_end -->",
                         "[sound:なに.mp3]",
                         "what",
                         "Pronoun"
@@ -335,7 +387,7 @@
                     "__type__": "Note",
                     "fields": [
                         "食べる",
-                        "たべる",
+                        "<font color=\"#008000\">たべる</font><!-- accent_start --><br><hr><br><svg class=\"pitch\" width=\"137px\" height=\"75px\" viewBox=\"0 0 137 75\"><text x=\"5\" y=\"67.5\" style=\"font-size:20px;font-family:sans-serif;fill:#000;\">た</text><text x=\"40\" y=\"67.5\" style=\"font-size:20px;font-family:sans-serif;fill:#000;\">べ</text><text x=\"75\" y=\"67.5\" style=\"font-size:20px;font-family:sans-serif;fill:#000;\">る</text><path d=\"m 16,30 35,-25\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 51,5 35,25\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 86,30 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><circle r=\"5\" cx=\"16\" cy=\"30\" style=\"opacity:1;fill:#000;\"></circle><circle r=\"5\" cx=\"51\" cy=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle r=\"5\" cx=\"86\" cy=\"30\" style=\"opacity:1;fill:#000;\"></circle><circle r=\"5\" cx=\"121\" cy=\"30\" style=\"opacity:1;fill:#000;\"></circle><circle r=\"3.25\" cx=\"121\" cy=\"30\" style=\"opacity:1;fill:#fff;\"></circle></svg><!-- accent_end -->",
                         "[sound:たべる.mp3]",
                         "to eat",
                         "Ichidan verb, Transitive verb"
@@ -351,7 +403,7 @@
                     "__type__": "Note",
                     "fields": [
                         "ちょっと",
-                        "ちょっと",
+                        "<font color=\"#ff0000\">ちょっと<!-- accent_start --><br></font><hr><br><svg class=\"pitch\" width=\"137px\" height=\"75px\" viewBox=\"0 0 137 75\"><text x=\"0\" y=\"67.5\" style=\"font-size:20px;font-family:sans-serif;fill:#000;\">ち</text><text x=\"17\" y=\"67.5\" style=\"font-size:14px;font-family:sans-serif;fill:#000;\">ょ</text><text x=\"40\" y=\"67.5\" style=\"font-size:20px;font-family:sans-serif;fill:#000;\">っ</text><text x=\"75\" y=\"67.5\" style=\"font-size:20px;font-family:sans-serif;fill:#000;\">と</text><path d=\"m 16,5 35,25\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 51,30 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 86,30 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><circle r=\"5\" cx=\"16\" cy=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle r=\"5\" cx=\"51\" cy=\"30\" style=\"opacity:1;fill:#000;\"></circle><circle r=\"5\" cx=\"86\" cy=\"30\" style=\"opacity:1;fill:#000;\"></circle><circle r=\"5\" cx=\"121\" cy=\"30\" style=\"opacity:1;fill:#000;\"></circle><circle r=\"3.25\" cx=\"121\" cy=\"30\" style=\"opacity:1;fill:#fff;\"></circle></svg><!-- accent_end -->",
                         "",
                         "a little, a bit, slightly",
                         "Adverb (fukushi)"
@@ -367,7 +419,7 @@
                     "__type__": "Note",
                     "fields": [
                         "考える",
-                        "かんがえる",
+                        "<font color=\"#008000\">かんがえる<!-- accent_start --><br></font><hr><br><svg class=\"pitch\" width=\"207px\" height=\"75px\" viewBox=\"0 0 207 75\"><text x=\"5\" y=\"67.5\" style=\"font-size:20px;font-family:sans-serif;fill:#000;\">か</text><text x=\"40\" y=\"67.5\" style=\"font-size:20px;font-family:sans-serif;fill:#000;\">ん</text><text x=\"75\" y=\"67.5\" style=\"font-size:20px;font-family:sans-serif;fill:#000;\">が</text><text x=\"110\" y=\"67.5\" style=\"font-size:20px;font-family:sans-serif;fill:#000;\">え</text><text x=\"145\" y=\"67.5\" style=\"font-size:20px;font-family:sans-serif;fill:#000;\">る</text><path d=\"m 16,30 35,-25\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 51,5 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 86,5 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 121,5 35,25\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 156,30 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><circle r=\"5\" cx=\"16\" cy=\"30\" style=\"opacity:1;fill:#000;\"></circle><circle r=\"5\" cx=\"51\" cy=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle r=\"5\" cx=\"86\" cy=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle r=\"5\" cx=\"121\" cy=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle r=\"5\" cx=\"156\" cy=\"30\" style=\"opacity:1;fill:#000;\"></circle><circle r=\"5\" cx=\"191\" cy=\"30\" style=\"opacity:1;fill:#000;\"></circle><circle r=\"3.25\" cx=\"191\" cy=\"30\" style=\"opacity:1;fill:#fff;\"></circle></svg><!-- accent_end -->",
                         "[sound:かんがえる.mp3]",
                         "to think (about, of), to think over, to ponder, to contemplate, to reflect (on), to meditate (on)",
                         "Ichidan verb, Transitive verb"
@@ -384,7 +436,7 @@
                     "__type__": "Note",
                     "fields": [
                         "いい",
-                        "いい",
+                        "<font color=\"#ff0000\">いい<!-- accent_start --><br></font><hr><br><svg class=\"pitch\" width=\"102px\" height=\"75px\" viewBox=\"0 0 102 75\"><text x=\"5\" y=\"67.5\" style=\"font-size:20px;font-family:sans-serif;fill:#000;\">い</text><text x=\"40\" y=\"67.5\" style=\"font-size:20px;font-family:sans-serif;fill:#000;\">い</text><path d=\"m 16,5 35,25\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 51,30 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><circle r=\"5\" cx=\"16\" cy=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle r=\"5\" cx=\"51\" cy=\"30\" style=\"opacity:1;fill:#000;\"></circle><circle r=\"5\" cx=\"86\" cy=\"30\" style=\"opacity:1;fill:#000;\"></circle><circle r=\"3.25\" cx=\"86\" cy=\"30\" style=\"opacity:1;fill:#fff;\"></circle></svg><!-- accent_end -->",
                         "",
                         "good, excellent, fine, nice, pleasant, agreeable",
                         "I-Adjective (keiyoushi) - yoi/ii class"
@@ -401,7 +453,7 @@
                     "__type__": "Note",
                     "fields": [
                         "かな",
-                        "かな",
+                        "かな<!-- accent_start --><br><hr><br><svg class=\"pitch\" width=\"102px\" height=\"75px\" viewBox=\"0 0 102 75\"><text x=\"5\" y=\"67.5\" style=\"font-size:20px;font-family:sans-serif;fill:#000;\">か</text><text x=\"40\" y=\"67.5\" style=\"font-size:20px;font-family:sans-serif;fill:#000;\">な</text><path d=\"m 16,30 35,-25\" style=\"fill:none;stroke:#000;stroke-width:1.5;\" /><path d=\"m 51,5 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\" /><circle r=\"5\" cx=\"16\" cy=\"30\" style=\"opacity:1;fill:#000;\" /><circle r=\"5\" cx=\"51\" cy=\"5\" style=\"opacity:1;fill:#000;\" /><circle r=\"5\" cx=\"86\" cy=\"5\" style=\"opacity:1;fill:#000;\" /><circle r=\"3.25\" cx=\"86\" cy=\"5\" style=\"opacity:1;fill:#fff;\"/></svg><!-- accent_end -->",
                         "",
                         "I wonder",
                         "Particle"
@@ -417,7 +469,7 @@
                     "__type__": "Note",
                     "fields": [
                         "ラーメン",
-                        "ラーメン",
+                        "<font color=\"#ff0000\">ラーメン<!-- accent_start --><br></font><hr><br><svg class=\"pitch\" width=\"172px\" height=\"75px\" viewBox=\"0 0 172 75\"><text x=\"5\" y=\"67.5\" style=\"font-size:20px;font-family:sans-serif;fill:#000;\">ラ</text><text x=\"40\" y=\"67.5\" style=\"font-size:20px;font-family:sans-serif;fill:#000;\">ー</text><text x=\"75\" y=\"67.5\" style=\"font-size:20px;font-family:sans-serif;fill:#000;\">メ</text><text x=\"110\" y=\"67.5\" style=\"font-size:20px;font-family:sans-serif;fill:#000;\">ン</text><path d=\"m 16,5 35,25\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 51,30 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 86,30 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 121,30 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><circle r=\"5\" cx=\"16\" cy=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle r=\"5\" cx=\"51\" cy=\"30\" style=\"opacity:1;fill:#000;\"></circle><circle r=\"5\" cx=\"86\" cy=\"30\" style=\"opacity:1;fill:#000;\"></circle><circle r=\"5\" cx=\"121\" cy=\"30\" style=\"opacity:1;fill:#000;\"></circle><circle r=\"5\" cx=\"156\" cy=\"30\" style=\"opacity:1;fill:#000;\"></circle><circle r=\"3.25\" cx=\"156\" cy=\"30\" style=\"opacity:1;fill:#fff;\"></circle></svg><!-- accent_end -->",
                         "",
                         "ramen, Chinese-style noodles",
                         "Noun"
@@ -434,7 +486,7 @@
                     "__type__": "Note",
                     "fields": [
                         "とか",
-                        "とか",
+                        "<font color=\"#a4a4ff\">とか<!-- accent_start --><br></font><hr><br><svg class=\"pitch\" width=\"102px\" height=\"75px\" viewBox=\"0 0 102 75\"><text x=\"5\" y=\"67.5\" style=\"font-size:20px;font-family:sans-serif;fill:#000;\">と</text><text x=\"40\" y=\"67.5\" style=\"font-size:20px;font-family:sans-serif;fill:#000;\">か</text><path d=\"m 16,30 35,-25\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 51,5 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><circle r=\"5\" cx=\"16\" cy=\"30\" style=\"opacity:1;fill:#000;\"></circle><circle r=\"5\" cx=\"51\" cy=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle r=\"5\" cx=\"86\" cy=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle r=\"3.25\" cx=\"86\" cy=\"5\" style=\"opacity:1;fill:#fff;\"></circle></svg><!-- accent_end -->",
                         "[sound:とか.mp3]",
                         "or something; something like; or whatever​",
                         "Expressions (phrases, clauses, etc.), Particle"
@@ -450,7 +502,7 @@
                     "__type__": "Note",
                     "fields": [
                         "この前",
-                        "このまえ",
+                        "<font color=\"#008000\">このまえ<!-- accent_start --><br></font><hr><br><svg class=\"pitch\" width=\"172px\" height=\"75px\" viewBox=\"0 0 172 75\"><text x=\"5\" y=\"67.5\" style=\"font-size:20px;font-family:sans-serif;fill:#000;\">こ</text><text x=\"40\" y=\"67.5\" style=\"font-size:20px;font-family:sans-serif;fill:#000;\">の</text><text x=\"75\" y=\"67.5\" style=\"font-size:20px;font-family:sans-serif;fill:#000;\">ま</text><text x=\"110\" y=\"67.5\" style=\"font-size:20px;font-family:sans-serif;fill:#000;\">え</text><path d=\"m 16,30 35,-25\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 51,5 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 86,5 35,25\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 121,30 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><circle r=\"5\" cx=\"16\" cy=\"30\" style=\"opacity:1;fill:#000;\"></circle><circle r=\"5\" cx=\"51\" cy=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle r=\"5\" cx=\"86\" cy=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle r=\"5\" cx=\"121\" cy=\"30\" style=\"opacity:1;fill:#000;\"></circle><circle r=\"5\" cx=\"156\" cy=\"30\" style=\"opacity:1;fill:#000;\"></circle><circle r=\"3.25\" cx=\"156\" cy=\"30\" style=\"opacity:1;fill:#fff;\"></circle></svg><!-- accent_end -->",
                         "[sound:このまえ.mp3]",
                         "the other day, previously, before, earlier, recently",
                         "Adverb (fukushi), Noun, Noun which may take the genitive case particle 'no'"
@@ -466,24 +518,8 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "じゃん",
-                        "じゃん",
-                        "",
-                        "isn't it?, don't you think?, right?, surely, come on",
-                        "Particle"
-                    ],
-                    "guid": "zzPlMUMWN{",
-                    "note_model_uuid": "5f2bb0fb-5d0e-11ed-ab14-f4365065998c",
-                    "tags": [
-                        "jisho::Colloquialism",
-                        "yuta::date::2022年10月31日::level1::situation1"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
                         "じゃあ",
-                        "じゃあ",
+                        "<font color=\"#ff0000\">じゃあ<!-- accent_start --><br></font><hr><br><svg class=\"pitch\" width=\"102px\" height=\"75px\" viewBox=\"0 0 102 75\"><text x=\"0\" y=\"67.5\" style=\"font-size:20px;font-family:sans-serif;fill:#000;\">じ</text><text x=\"17\" y=\"67.5\" style=\"font-size:14px;font-family:sans-serif;fill:#000;\">ゃ</text><text x=\"40\" y=\"67.5\" style=\"font-size:20px;font-family:sans-serif;fill:#000;\">あ</text><path d=\"m 16,5 35,25\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 51,30 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><circle r=\"5\" cx=\"16\" cy=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle r=\"5\" cx=\"51\" cy=\"30\" style=\"opacity:1;fill:#000;\"></circle><circle r=\"5\" cx=\"86\" cy=\"30\" style=\"opacity:1;fill:#000;\"></circle><circle r=\"3.25\" cx=\"86\" cy=\"30\" style=\"opacity:1;fill:#fff;\"></circle></svg><!-- accent_end -->",
                         "",
                         "then, well, so, well then",
                         "Conjunction"
@@ -498,7 +534,7 @@
                     "__type__": "Note",
                     "fields": [
                         "別",
-                        "べつ",
+                        "<font color=\"#a4a4ff\">べつ<!-- accent_start --><br></font><hr><br><svg class=\"pitch\" width=\"102px\" height=\"75px\" viewBox=\"0 0 102 75\"><text x=\"5\" y=\"67.5\" style=\"font-size:20px;font-family:sans-serif;fill:#000;\">べ</text><text x=\"40\" y=\"67.5\" style=\"font-size:20px;font-family:sans-serif;fill:#000;\">つ</text><path d=\"m 16,30 35,-25\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 51,5 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><circle r=\"5\" cx=\"16\" cy=\"30\" style=\"opacity:1;fill:#000;\"></circle><circle r=\"5\" cx=\"51\" cy=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle r=\"5\" cx=\"86\" cy=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle r=\"3.25\" cx=\"86\" cy=\"5\" style=\"opacity:1;fill:#fff;\"></circle></svg><!-- accent_end -->",
                         "[sound:べつ.mp3]",
                         "distinction, difference, discrimination",
                         "Noun"
@@ -514,7 +550,7 @@
                     "__type__": "Note",
                     "fields": [
                         "の",
-                        "の",
+                        "<font color=\"#a4a4ff\">の<!-- accent_start --><br></font><hr><br><svg class=\"pitch\" width=\"67px\" height=\"75px\" viewBox=\"0 0 67 75\"><text x=\"5\" y=\"67.5\" style=\"font-size:20px;font-family:sans-serif;fill:#000;\">の</text><path d=\"m 16,30 35,-25\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><circle r=\"5\" cx=\"16\" cy=\"30\" style=\"opacity:1;fill:#000;\"></circle><circle r=\"5\" cx=\"51\" cy=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle r=\"3.25\" cx=\"51\" cy=\"5\" style=\"opacity:1;fill:#fff;\"></circle></svg><!-- accent_end -->",
                         "[sound:の.mp3]",
                         "nominalizes verbs and adjectives",
                         "Particle"
@@ -528,24 +564,8 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "考え様",
-                        "かんがえよう",
-                        "",
-                        "way of thinking, one's perspective",
-                        "Noun"
-                    ],
-                    "guid": "rpL+F6r-Ml",
-                    "note_model_uuid": "5f2bb0fb-5d0e-11ed-ab14-f4365065998c",
-                    "tags": [
-                        "yuta::date::2022年10月31日",
-                        "yuta::Level::1"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
                         "ギター",
-                        "ギター",
+                        "<font color=\"#ff0000\">ギター<!-- accent_start --><br></font><hr><br><svg class=\"pitch\" width=\"137px\" height=\"75px\" viewBox=\"0 0 137 75\"><text x=\"5\" y=\"67.5\" style=\"font-size:20px;font-family:sans-serif;fill:#000;\">ギ</text><text x=\"40\" y=\"67.5\" style=\"font-size:20px;font-family:sans-serif;fill:#000;\">タ</text><text x=\"75\" y=\"67.5\" style=\"font-size:20px;font-family:sans-serif;fill:#000;\">ー</text><path d=\"m 16,5 35,25\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 51,30 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 86,30 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><circle r=\"5\" cx=\"16\" cy=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle r=\"5\" cx=\"51\" cy=\"30\" style=\"opacity:1;fill:#000;\"></circle><circle r=\"5\" cx=\"86\" cy=\"30\" style=\"opacity:1;fill:#000;\"></circle><circle r=\"5\" cx=\"121\" cy=\"30\" style=\"opacity:1;fill:#000;\"></circle><circle r=\"3.25\" cx=\"121\" cy=\"30\" style=\"opacity:1;fill:#fff;\"></circle></svg><!-- accent_end -->",
                         "",
                         "guitar",
                         "Noun"
@@ -561,7 +581,7 @@
                     "__type__": "Note",
                     "fields": [
                         "上手い",
-                        "うまい",
+                        "<font color=\"#008000\">うまい<!-- accent_start --><br></font><hr><br><svg class=\"pitch\" width=\"137px\" height=\"75px\" viewBox=\"0 0 137 75\"><text x=\"5\" y=\"67.5\" style=\"font-size:20px;font-family:sans-serif;fill:#000;\">う</text><text x=\"40\" y=\"67.5\" style=\"font-size:20px;font-family:sans-serif;fill:#000;\">ま</text><text x=\"75\" y=\"67.5\" style=\"font-size:20px;font-family:sans-serif;fill:#000;\">い</text><path d=\"m 16,30 35,-25\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 51,5 35,25\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 86,30 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><circle r=\"5\" cx=\"16\" cy=\"30\" style=\"opacity:1;fill:#000;\"></circle><circle r=\"5\" cx=\"51\" cy=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle r=\"5\" cx=\"86\" cy=\"30\" style=\"opacity:1;fill:#000;\"></circle><circle r=\"5\" cx=\"121\" cy=\"30\" style=\"opacity:1;fill:#000;\"></circle><circle r=\"3.25\" cx=\"121\" cy=\"30\" style=\"opacity:1;fill:#fff;\"></circle></svg><!-- accent_end -->",
                         "",
                         "skillful, skilful, skilled, good, expert, clever (expression, trick, etc.), apt, appropriate",
                         "I-adjective (keiyoushi)"
@@ -579,7 +599,7 @@
                     "__type__": "Note",
                     "fields": [
                         "ね",
-                        "ね",
+                        "<font color=\"#ff0000\">ね<!-- accent_start --><br></font><hr><br><svg class=\"pitch\" width=\"67px\" height=\"75px\" viewBox=\"0 0 67 75\"><text x=\"5\" y=\"67.5\" style=\"font-size:20px;font-family:sans-serif;fill:#000;\">ね</text><path d=\"m 16,5 35,25\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><circle r=\"5\" cx=\"16\" cy=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle r=\"5\" cx=\"51\" cy=\"30\" style=\"opacity:1;fill:#000;\"></circle><circle r=\"3.25\" cx=\"51\" cy=\"30\" style=\"opacity:1;fill:#fff;\"></circle></svg><!-- accent_end -->",
                         "",
                         "right?, isn't it?, doesn't it?, don't you?, don't you think?",
                         "Particle"
@@ -594,7 +614,7 @@
                     "__type__": "Note",
                     "fields": [
                         "僕",
-                        "ぼく",
+                        "<font color=\"#ff0000\">ぼく<!-- accent_start --><br></font><hr><br><svg class=\"pitch\" width=\"102px\" height=\"75px\" viewBox=\"0 0 102 75\"><text x=\"5\" y=\"67.5\" style=\"font-size:20px;font-family:sans-serif;fill:#000;\">ぼ</text><text x=\"40\" y=\"67.5\" style=\"font-size:20px;font-family:sans-serif;fill:#000;\">く</text><path d=\"m 16,5 35,25\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 51,30 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><circle r=\"5\" cx=\"16\" cy=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle r=\"5\" cx=\"51\" cy=\"30\" style=\"opacity:1;fill:#000;\"></circle><circle r=\"5\" cx=\"86\" cy=\"30\" style=\"opacity:1;fill:#000;\"></circle><circle r=\"3.25\" cx=\"86\" cy=\"30\" style=\"opacity:1;fill:#fff;\"></circle></svg><!-- accent_end -->",
                         "[sound:ぼく.mp3]",
                         "I, me",
                         "Pronoun"
@@ -611,7 +631,7 @@
                     "__type__": "Note",
                     "fields": [
                         "遣る",
-                        "やる",
+                        "<font color=\"#a4a4ff\">やる</font><hr><br><svg class=\"pitch\" width=\"102px\" height=\"75px\" viewBox=\"0 0 102 75\"><text x=\"5\" y=\"67.5\" style=\"font-size:20px;font-family:sans-serif;fill:#000;\">や</text><text x=\"40\" y=\"67.5\" style=\"font-size:20px;font-family:sans-serif;fill:#000;\">る</text><path d=\"m 16,30 35,-25\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 51,5 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><circle r=\"5\" cx=\"16\" cy=\"30\" style=\"opacity:1;fill:#000;\"></circle><circle r=\"5\" cx=\"51\" cy=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle r=\"5\" cx=\"86\" cy=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle r=\"3.25\" cx=\"86\" cy=\"5\" style=\"opacity:1;fill:#fff;\"></circle></svg><!-- accent_end -->",
                         "",
                         "to do, to undertake, to perform, to play (a game), to study",
                         "Godan verb with ru ending, Transitive verb"
@@ -628,7 +648,7 @@
                     "__type__": "Note",
                     "fields": [
                         "たい",
-                        "たい",
+                        "<font color=\"#ff0000\">たい<!-- accent_start --><br></font><hr><br><svg class=\"pitch\" width=\"102px\" height=\"75px\" viewBox=\"0 0 102 75\"><text x=\"5\" y=\"67.5\" style=\"font-size:20px;font-family:sans-serif;fill:#000;\">た</text><text x=\"40\" y=\"67.5\" style=\"font-size:20px;font-family:sans-serif;fill:#000;\">い</text><path d=\"m 16,5 35,25\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 51,30 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><circle r=\"5\" cx=\"16\" cy=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle r=\"5\" cx=\"51\" cy=\"30\" style=\"opacity:1;fill:#000;\"></circle><circle r=\"5\" cx=\"86\" cy=\"30\" style=\"opacity:1;fill:#000;\"></circle><circle r=\"3.25\" cx=\"86\" cy=\"30\" style=\"opacity:1;fill:#fff;\"></circle></svg><!-- accent_end -->",
                         "",
                         "want to ... do something, would like to ...",
                         "Auxiliary adjective"
@@ -643,7 +663,7 @@
                     "__type__": "Note",
                     "fields": [
                         "少し",
-                        "すこし",
+                        "<font color=\"#008000\">すこし<!-- accent_start --><br></font><hr><br><svg class=\"pitch\" width=\"137px\" height=\"75px\" viewBox=\"0 0 137 75\"><text x=\"5\" y=\"67.5\" style=\"font-size:20px;font-family:sans-serif;fill:#000;\">す</text><text x=\"40\" y=\"67.5\" style=\"font-size:20px;font-family:sans-serif;fill:#000;\">こ</text><text x=\"75\" y=\"67.5\" style=\"font-size:20px;font-family:sans-serif;fill:#000;\">し</text><path d=\"m 16,30 35,-25\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 51,5 35,25\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 86,30 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><circle r=\"5\" cx=\"16\" cy=\"30\" style=\"opacity:1;fill:#000;\"></circle><circle r=\"5\" cx=\"51\" cy=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle r=\"5\" cx=\"86\" cy=\"30\" style=\"opacity:1;fill:#000;\"></circle><circle r=\"5\" cx=\"121\" cy=\"30\" style=\"opacity:1;fill:#000;\"></circle><circle r=\"3.25\" cx=\"121\" cy=\"30\" style=\"opacity:1;fill:#fff;\"></circle></svg><!-- accent_end -->",
                         "[sound:すこし.mp3]",
                         "a little, a bit, a small amount, a few, some, slightly, somewhat",
                         "Adverb (fukushi)"
@@ -659,7 +679,7 @@
                     "__type__": "Note",
                     "fields": [
                         "もちろん",
-                        "もちろん",
+                        "<font color=\"#008000\">もちろん<!-- accent_start --><br></font><hr><br><svg class=\"pitch\" width=\"172px\" height=\"75px\" viewBox=\"0 0 172 75\"><text x=\"5\" y=\"67.5\" style=\"font-size:20px;font-family:sans-serif;fill:#000;\">も</text><text x=\"40\" y=\"67.5\" style=\"font-size:20px;font-family:sans-serif;fill:#000;\">ち</text><text x=\"75\" y=\"67.5\" style=\"font-size:20px;font-family:sans-serif;fill:#000;\">ろ</text><text x=\"110\" y=\"67.5\" style=\"font-size:20px;font-family:sans-serif;fill:#000;\">ん</text><path d=\"m 16,30 35,-25\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 51,5 35,25\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 86,30 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 121,30 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><circle r=\"5\" cx=\"16\" cy=\"30\" style=\"opacity:1;fill:#000;\"></circle><circle r=\"5\" cx=\"51\" cy=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle r=\"5\" cx=\"86\" cy=\"30\" style=\"opacity:1;fill:#000;\"></circle><circle r=\"5\" cx=\"121\" cy=\"30\" style=\"opacity:1;fill:#000;\"></circle><circle r=\"5\" cx=\"156\" cy=\"30\" style=\"opacity:1;fill:#000;\"></circle><circle r=\"3.25\" cx=\"156\" cy=\"30\" style=\"opacity:1;fill:#fff;\"></circle></svg><!-- accent_end -->",
                         "",
                         "of course, certainly, naturally",
                         "Adverb (fukushi)"
@@ -674,77 +694,8 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "ですか",
-                        "ですか",
-                        "",
-                        "indicates question",
-                        "Expressions (phrases, clauses, etc.)"
-                    ],
-                    "guid": "MM3VQg!YGw",
-                    "note_model_uuid": "5f2bb0fb-5d0e-11ed-ab14-f4365065998c",
-                    "tags": [
-                        "jisho::Polite_(teineigo)_language",
-                        "jisho::Usually_written_using_kana_alone",
-                        "yuta::date::2022年10月31日::level1::situation2"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "ちょっと考える。何がいいかな",
-                        "[sound:145 Level 1-1 Ken01.mp3]",
-                        " I will think about it a little. What would be good?"
-                    ],
-                    "guid": "c4kGOu`qVu",
-                    "note_model_uuid": "5f2bb0f4-5d0e-11ed-b5fc-f4365065998c",
-                    "tags": [
-                        "yuta::date::2022年10月31日::level1::situation1"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "ラーメンとか？",
-                        "[sound:145 Level 1-1 Saki02.mp3]",
-                        "Maybe something like ramen?"
-                    ],
-                    "guid": "k8oq_?+4Qr",
-                    "note_model_uuid": "5f2bb0f4-5d0e-11ed-b5fc-f4365065998c",
-                    "tags": [
-                        "yuta::date::2022年10月31日::level1::situation1"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "この前も食べたじゃん",
-                        "[sound:145 Level 1-1 Ken02.mp3]",
-                        "We had it the other day, right?"
-                    ],
-                    "guid": "j~20-)[{}@",
-                    "note_model_uuid": "5f2bb0f4-5d0e-11ed-b5fc-f4365065998c",
-                    "tags": [
-                        "yuta::date::2022年10月31日::level1::situation1"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "じゃ、別の考えよう",
-                        "[sound:145 Level 1-1 Saki03.mp3]",
-                        "Then, let’s think of another one."
-                    ],
-                    "guid": "bgrZKf7KQ,",
-                    "note_model_uuid": "5f2bb0f4-5d0e-11ed-b5fc-f4365065998c",
-                    "tags": [
-                        "yuta::date::2022年10月31日::level1::situation1"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
                         "ちゃん",
-                        "ちゃん",
+                        "<font color=\"#ff0000\">ちゃん<!-- accent_start --><br></font><hr><br><svg class=\"pitch\" width=\"102px\" height=\"75px\" viewBox=\"0 0 102 75\"><text x=\"0\" y=\"67.5\" style=\"font-size:20px;font-family:sans-serif;fill:#000;\">ち</text><text x=\"17\" y=\"67.5\" style=\"font-size:14px;font-family:sans-serif;fill:#000;\">ゃ</text><text x=\"40\" y=\"67.5\" style=\"font-size:20px;font-family:sans-serif;fill:#000;\">ん</text><path d=\"m 16,5 35,25\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 51,30 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><circle r=\"5\" cx=\"16\" cy=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle r=\"5\" cx=\"51\" cy=\"30\" style=\"opacity:1;fill:#000;\"></circle><circle r=\"5\" cx=\"86\" cy=\"30\" style=\"opacity:1;fill:#000;\"></circle><circle r=\"3.25\" cx=\"86\" cy=\"30\" style=\"opacity:1;fill:#fff;\"></circle></svg><!-- accent_end -->",
                         "[sound:ちゃん.mp3]",
                         "suffix for familiar person",
                         "Suffix"
@@ -760,7 +711,7 @@
                     "__type__": "Note",
                     "fields": [
                         "英語",
-                        "えいご",
+                        "<font color=\"#a4a4ff\">えいご<!-- accent_start --><br></font><hr><br><svg class=\"pitch\" width=\"137px\" height=\"75px\" viewBox=\"0 0 137 75\"><text x=\"5\" y=\"67.5\" style=\"font-size:20px;font-family:sans-serif;fill:#000;\">え</text><text x=\"40\" y=\"67.5\" style=\"font-size:20px;font-family:sans-serif;fill:#000;\">い</text><text x=\"75\" y=\"67.5\" style=\"font-size:20px;font-family:sans-serif;fill:#000;\">ご</text><path d=\"m 16,30 35,-25\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 51,5 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 86,5 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><circle r=\"5\" cx=\"16\" cy=\"30\" style=\"opacity:1;fill:#000;\"></circle><circle r=\"5\" cx=\"51\" cy=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle r=\"5\" cx=\"86\" cy=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle r=\"5\" cx=\"121\" cy=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle r=\"3.25\" cx=\"121\" cy=\"5\" style=\"opacity:1;fill:#fff;\"></circle></svg><!-- accent_end -->",
                         "[sound:えいご.mp3]",
                         "English (language)",
                         "Noun"
@@ -776,7 +727,7 @@
                     "__type__": "Note",
                     "fields": [
                         "できる",
-                        "できる",
+                        "<font color=\"#008000\">できる<!-- accent_start --><br></font><hr><br><svg class=\"pitch\" width=\"137px\" height=\"75px\" viewBox=\"0 0 137 75\"><text x=\"5\" y=\"67.5\" style=\"font-size:20px;font-family:sans-serif;fill:#000;\">で</text><text x=\"40\" y=\"67.5\" style=\"font-size:20px;font-family:sans-serif;fill:#000;\">き</text><text x=\"75\" y=\"67.5\" style=\"font-size:20px;font-family:sans-serif;fill:#000;\">る</text><path d=\"m 16,30 35,-25\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 51,5 35,25\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 86,30 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><circle r=\"5\" cx=\"16\" cy=\"30\" style=\"opacity:1;fill:#000;\"></circle><circle r=\"5\" cx=\"51\" cy=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle r=\"5\" cx=\"86\" cy=\"30\" style=\"opacity:1;fill:#000;\"></circle><circle r=\"5\" cx=\"121\" cy=\"30\" style=\"opacity:1;fill:#000;\"></circle><circle r=\"3.25\" cx=\"121\" cy=\"30\" style=\"opacity:1;fill:#fff;\"></circle></svg><!-- accent_end -->",
                         "[sound:できる.mp3]",
                         "to be able (in a position) to do, to be up to the task",
                         "Ichidan verb, Intransitive verb"
@@ -793,7 +744,7 @@
                     "__type__": "Note",
                     "fields": [
                         "丈",
-                        "だけ",
+                        "<font color=\"#ff0000\">だけ<!-- accent_start --><br></font><hr><br><svg class=\"pitch\" width=\"102px\" height=\"75px\" viewBox=\"0 0 102 75\"><text x=\"0\" y=\"67.5\" style=\"font-size:20px;font-family:sans-serif;fill:#000;\">じ</text><text x=\"17\" y=\"67.5\" style=\"font-size:14px;font-family:sans-serif;fill:#000;\">ょ</text><text x=\"40\" y=\"67.5\" style=\"font-size:20px;font-family:sans-serif;fill:#000;\">う</text><path d=\"m 16,5 35,25\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 51,30 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><circle r=\"5\" cx=\"16\" cy=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle r=\"5\" cx=\"51\" cy=\"30\" style=\"opacity:1;fill:#000;\"></circle><circle r=\"5\" cx=\"86\" cy=\"30\" style=\"opacity:1;fill:#000;\"></circle><circle r=\"3.25\" cx=\"86\" cy=\"30\" style=\"opacity:1;fill:#fff;\"></circle></svg><!-- accent_end -->",
                         "[sound:だけ.mp3]",
                         "only, just, merely, simply, no more than, nothing but, alone",
                         "Particle"
@@ -809,7 +760,7 @@
                     "__type__": "Note",
                     "fields": [
                         "この",
-                        "この",
+                        "<font color=\"#a4a4ff\">この<!-- accent_start --><br></font><hr><br><svg class=\"pitch\" width=\"102px\" height=\"75px\" viewBox=\"0 0 102 75\"><text x=\"5\" y=\"67.5\" style=\"font-size:20px;font-family:sans-serif;fill:#000;\">こ</text><text x=\"40\" y=\"67.5\" style=\"font-size:20px;font-family:sans-serif;fill:#000;\">の</text><path d=\"m 16,5 35,25\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 51,30 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><circle r=\"5\" cx=\"16\" cy=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle r=\"5\" cx=\"51\" cy=\"30\" style=\"opacity:1;fill:#000;\"></circle><circle r=\"5\" cx=\"86\" cy=\"30\" style=\"opacity:1;fill:#000;\"></circle><circle r=\"3.25\" cx=\"86\" cy=\"30\" style=\"opacity:1;fill:#fff;\"></circle></svg><!-- accent_end -->",
                         "[sound:この.mp3]",
                         "this",
                         "Pre-noun adjectival (rentaishi)"
@@ -825,7 +776,7 @@
                     "__type__": "Note",
                     "fields": [
                         "問題",
-                        "もんだい",
+                        "<font color=\"#a4a4ff\">もんだい<!-- accent_start --><br></font><hr><br><svg class=\"pitch\" width=\"172px\" height=\"75px\" viewBox=\"0 0 172 75\"><text x=\"5\" y=\"67.5\" style=\"font-size:20px;font-family:sans-serif;fill:#000;\">も</text><text x=\"40\" y=\"67.5\" style=\"font-size:20px;font-family:sans-serif;fill:#000;\">ん</text><text x=\"75\" y=\"67.5\" style=\"font-size:20px;font-family:sans-serif;fill:#000;\">だ</text><text x=\"110\" y=\"67.5\" style=\"font-size:20px;font-family:sans-serif;fill:#000;\">い</text><path d=\"m 16,30 35,-25\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 51,5 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 86,5 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 121,5 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><circle r=\"5\" cx=\"16\" cy=\"30\" style=\"opacity:1;fill:#000;\"></circle><circle r=\"5\" cx=\"51\" cy=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle r=\"5\" cx=\"86\" cy=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle r=\"5\" cx=\"121\" cy=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle r=\"5\" cx=\"156\" cy=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle r=\"3.25\" cx=\"156\" cy=\"5\" style=\"opacity:1;fill:#fff;\"></circle></svg><!-- accent_end -->",
                         "[sound:もんだい.mp3]",
                         "question (e.g. on a test), problem",
                         "Noun"
@@ -841,7 +792,7 @@
                     "__type__": "Note",
                     "fields": [
                         "教える",
-                        "おしえる",
+                        "<font color=\"#a4a4ff\">おしえる<!-- accent_start --><br></font><hr><br><svg class=\"pitch\" width=\"172px\" height=\"75px\" viewBox=\"0 0 172 75\"><text x=\"5\" y=\"67.5\" style=\"font-size:20px;font-family:sans-serif;fill:#000;\">お</text><text x=\"40\" y=\"67.5\" style=\"font-size:20px;font-family:sans-serif;fill:#000;\">し</text><text x=\"75\" y=\"67.5\" style=\"font-size:20px;font-family:sans-serif;fill:#000;\">え</text><text x=\"110\" y=\"67.5\" style=\"font-size:20px;font-family:sans-serif;fill:#000;\">る</text><path d=\"m 16,30 35,-25\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 51,5 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 86,5 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 121,5 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><circle r=\"5\" cx=\"16\" cy=\"30\" style=\"opacity:1;fill:#000;\"></circle><circle r=\"5\" cx=\"51\" cy=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle r=\"5\" cx=\"86\" cy=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle r=\"5\" cx=\"121\" cy=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle r=\"5\" cx=\"156\" cy=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle r=\"3.25\" cx=\"156\" cy=\"5\" style=\"opacity:1;fill:#fff;\"></circle></svg><!-- accent_end -->",
                         "[sound:おしえる.mp3]",
                         "to teach, to instruct",
                         "Ichidan verb, Transitive verb"
@@ -857,7 +808,7 @@
                     "__type__": "Note",
                     "fields": [
                         "読む",
-                        "よむ",
+                        "<font color=\"#ff0000\">よむ<!-- accent_start --><br></font><hr><br><svg class=\"pitch\" width=\"102px\" height=\"75px\" viewBox=\"0 0 102 75\"><text x=\"5\" y=\"67.5\" style=\"font-size:20px;font-family:sans-serif;fill:#000;\">よ</text><text x=\"40\" y=\"67.5\" style=\"font-size:20px;font-family:sans-serif;fill:#000;\">む</text><path d=\"m 16,5 35,25\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 51,30 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><circle r=\"5\" cx=\"16\" cy=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle r=\"5\" cx=\"51\" cy=\"30\" style=\"opacity:1;fill:#000;\"></circle><circle r=\"5\" cx=\"86\" cy=\"30\" style=\"opacity:1;fill:#000;\"></circle><circle r=\"3.25\" cx=\"86\" cy=\"30\" style=\"opacity:1;fill:#fff;\"></circle></svg><!-- accent_end -->",
                         "[sound:よむ.mp3]",
                         "to read",
                         "Godan verb with mu ending, Transitive verb"
@@ -873,7 +824,7 @@
                     "__type__": "Note",
                     "fields": [
                         "どう",
-                        "どう",
+                        "<font color=\"#ff0000\">どう<!-- accent_start --><br></font><hr><br><svg class=\"pitch\" width=\"102px\" height=\"75px\" viewBox=\"0 0 102 75\"><text x=\"5\" y=\"67.5\" style=\"font-size:20px;font-family:sans-serif;fill:#000;\">ど</text><text x=\"40\" y=\"67.5\" style=\"font-size:20px;font-family:sans-serif;fill:#000;\">う</text><path d=\"m 16,5 35,25\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 51,30 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><circle r=\"5\" cx=\"16\" cy=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle r=\"5\" cx=\"51\" cy=\"30\" style=\"opacity:1;fill:#000;\"></circle><circle r=\"5\" cx=\"86\" cy=\"30\" style=\"opacity:1;fill:#000;\"></circle><circle r=\"3.25\" cx=\"86\" cy=\"30\" style=\"opacity:1;fill:#fff;\"></circle></svg><!-- accent_end -->",
                         "[sound:どう.mp3]",
                         "how, in what way, how about",
                         "Adverb (fukushi)"
@@ -889,7 +840,7 @@
                     "__type__": "Note",
                     "fields": [
                         "分かる",
-                        "わかる",
+                        "<font color=\"#008000\">わかる<!-- accent_start --><br></font><hr><br><svg class=\"pitch\" width=\"137px\" height=\"75px\" viewBox=\"0 0 137 75\"><text x=\"5\" y=\"67.5\" style=\"font-size:20px;font-family:sans-serif;fill:#000;\">わ</text><text x=\"40\" y=\"67.5\" style=\"font-size:20px;font-family:sans-serif;fill:#000;\">か</text><text x=\"75\" y=\"67.5\" style=\"font-size:20px;font-family:sans-serif;fill:#000;\">る</text><path d=\"m 16,30 35,-25\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 51,5 35,25\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 86,30 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><circle r=\"5\" cx=\"16\" cy=\"30\" style=\"opacity:1;fill:#000;\"></circle><circle r=\"5\" cx=\"51\" cy=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle r=\"5\" cx=\"86\" cy=\"30\" style=\"opacity:1;fill:#000;\"></circle><circle r=\"5\" cx=\"121\" cy=\"30\" style=\"opacity:1;fill:#000;\"></circle><circle r=\"3.25\" cx=\"121\" cy=\"30\" style=\"opacity:1;fill:#fff;\"></circle></svg><!-- accent_end -->",
                         "[sound:わかる.mp3]",
                         "to understand, to comprehend, to grasp, to see, to get, to follow",
                         "Godan verb with ru ending, Intransitive verb"
@@ -905,24 +856,8 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "分かんない",
-                        "わかんない",
-                        "",
-                        "not understanding, not knowing",
-                        "Expressions (phrases, clauses, etc.), I-adjective (keiyoushi)"
-                    ],
-                    "guid": "dM(x1K~u-2",
-                    "note_model_uuid": "5f2bb0fb-5d0e-11ed-ab14-f4365065998c",
-                    "tags": [
-                        "jisho::Colloquialism",
-                        "yuta::date::2022年10月31日::level1::situation3"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
                         "さん",
-                        "さん",
+                        "<font color=\"#ff0000\">さん<!-- accent_start --><br></font><hr><br><svg class=\"pitch\" width=\"102px\" height=\"75px\" viewBox=\"0 0 102 75\"><text x=\"5\" y=\"67.5\" style=\"font-size:20px;font-family:sans-serif;fill:#000;\">さ</text><text x=\"40\" y=\"67.5\" style=\"font-size:20px;font-family:sans-serif;fill:#000;\">ん</text><path d=\"m 16,5 35,25\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 51,30 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><circle r=\"5\" cx=\"16\" cy=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle r=\"5\" cx=\"51\" cy=\"30\" style=\"opacity:1;fill:#000;\"></circle><circle r=\"5\" cx=\"86\" cy=\"30\" style=\"opacity:1;fill:#000;\"></circle><circle r=\"3.25\" cx=\"86\" cy=\"30\" style=\"opacity:1;fill:#fff;\"></circle></svg><!-- accent_end -->",
                         "",
                         "Mr., Mrs., Miss, Ms., -san",
                         "Suffix"
@@ -940,7 +875,7 @@
                     "__type__": "Note",
                     "fields": [
                         "ここ",
-                        "ここ",
+                        "<font color=\"#a4a4ff\">ここ<!-- accent_start --><br></font><hr><br><svg class=\"pitch\" width=\"102px\" height=\"75px\" viewBox=\"0 0 102 75\"><text x=\"5\" y=\"67.5\" style=\"font-size:20px;font-family:sans-serif;fill:#000;\">こ</text><text x=\"40\" y=\"67.5\" style=\"font-size:20px;font-family:sans-serif;fill:#000;\">こ</text><path d=\"m 16,30 35,-25\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 51,5 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><circle r=\"5\" cx=\"16\" cy=\"30\" style=\"opacity:1;fill:#000;\"></circle><circle r=\"5\" cx=\"51\" cy=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle r=\"5\" cx=\"86\" cy=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle r=\"3.25\" cx=\"86\" cy=\"5\" style=\"opacity:1;fill:#fff;\"></circle></svg><!-- accent_end -->",
                         "[sound:ここ.mp3]",
                         "here, this place",
                         "Pronoun"
@@ -956,7 +891,7 @@
                     "__type__": "Note",
                     "fields": [
                         "辞める",
-                        "やめる",
+                        "<font color=\"#a4a4ff\">やめる<!-- accent_start --><br></font><hr><br><svg class=\"pitch\" width=\"137px\" height=\"75px\" viewBox=\"0 0 137 75\"><text x=\"5\" y=\"67.5\" style=\"font-size:20px;font-family:sans-serif;fill:#000;\">や</text><text x=\"40\" y=\"67.5\" style=\"font-size:20px;font-family:sans-serif;fill:#000;\">め</text><text x=\"75\" y=\"67.5\" style=\"font-size:20px;font-family:sans-serif;fill:#000;\">る</text><path d=\"m 16,30 35,-25\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 51,5 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 86,5 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><circle r=\"5\" cx=\"16\" cy=\"30\" style=\"opacity:1;fill:#000;\"></circle><circle r=\"5\" cx=\"51\" cy=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle r=\"5\" cx=\"86\" cy=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle r=\"5\" cx=\"121\" cy=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle r=\"3.25\" cx=\"121\" cy=\"5\" style=\"opacity:1;fill:#fff;\"></circle></svg><!-- accent_end -->",
                         "[sound:やめる.mp3]",
                         "to resign, to retire, to quit, to leave (one's job, etc.)",
                         "Ichidan verb, Transitive verb"
@@ -971,24 +906,8 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "みたい",
-                        "みたい",
-                        "",
-                        "-like, sort of, similar to, resembling",
-                        "Suffix, Na-adjective (keiyodoshi)"
-                    ],
-                    "guid": "nS;r+de*my",
-                    "note_model_uuid": "5f2bb0fb-5d0e-11ed-ab14-f4365065998c",
-                    "tags": [
-                        "jisho::Colloquialism",
-                        "yuta::date::2022年10月31日::level1::situation4"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
                         "本当",
-                        "ほんとう",
+                        "<font color=\"#a4a4ff\">ほんとう<!-- accent_start --><br></font><hr><br><svg class=\"pitch\" width=\"137px\" height=\"75px\" viewBox=\"0 0 137 75\"><text x=\"5\" y=\"67.5\" style=\"font-size:20px;font-family:sans-serif;fill:#000;\">ほ</text><text x=\"40\" y=\"67.5\" style=\"font-size:20px;font-family:sans-serif;fill:#000;\">ん</text><text x=\"75\" y=\"67.5\" style=\"font-size:20px;font-family:sans-serif;fill:#000;\">と</text><path d=\"m 16,30 35,-25\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 51,5 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 86,5 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><circle r=\"5\" cx=\"16\" cy=\"30\" style=\"opacity:1;fill:#000;\"></circle><circle r=\"5\" cx=\"51\" cy=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle r=\"5\" cx=\"86\" cy=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle r=\"5\" cx=\"121\" cy=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle r=\"3.25\" cx=\"121\" cy=\"5\" style=\"opacity:1;fill:#fff;\"></circle></svg><!-- accent_end -->",
                         "[sound:ほんとう.mp3]",
                         "truth, reality, actuality, fact",
                         "Noun, Noun which may take the genitive case particle 'no', Na-adjective (keiyodoshi)"
@@ -1004,7 +923,7 @@
                     "__type__": "Note",
                     "fields": [
                         "なんで",
-                        "なんで",
+                        "<font color=\"#ff0000\">なんで<!-- accent_start --><br></font><hr><br><svg class=\"pitch\" width=\"137px\" height=\"75px\" viewBox=\"0 0 137 75\"><text x=\"5\" y=\"67.5\" style=\"font-size:20px;font-family:sans-serif;fill:#000;\">な</text><text x=\"40\" y=\"67.5\" style=\"font-size:20px;font-family:sans-serif;fill:#000;\">ん</text><text x=\"75\" y=\"67.5\" style=\"font-size:20px;font-family:sans-serif;fill:#000;\">で</text><path d=\"m 16,5 35,25\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 51,30 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 86,30 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><circle r=\"5\" cx=\"16\" cy=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle r=\"5\" cx=\"51\" cy=\"30\" style=\"opacity:1;fill:#000;\"></circle><circle r=\"5\" cx=\"86\" cy=\"30\" style=\"opacity:1;fill:#000;\"></circle><circle r=\"5\" cx=\"121\" cy=\"30\" style=\"opacity:1;fill:#000;\"></circle><circle r=\"3.25\" cx=\"121\" cy=\"30\" style=\"opacity:1;fill:#fff;\"></circle></svg><!-- accent_end -->",
                         "",
                         "why?, what for?",
                         "Adverb (fukushi)"
@@ -1020,7 +939,7 @@
                     "__type__": "Note",
                     "fields": [
                         "誰も",
-                        "だれも",
+                        "<font color=\"#a4a4ff\">だれも</font><!-- accent_start --><br><hr><br><svg class=\"pitch\" width=\"137px\" height=\"75px\" viewBox=\"0 0 137 75\"><text x=\"5\" y=\"67.5\" style=\"font-size:20px;font-family:sans-serif;fill:#000;\">だ</text><text x=\"40\" y=\"67.5\" style=\"font-size:20px;font-family:sans-serif;fill:#000;\">れ</text><text x=\"75\" y=\"67.5\" style=\"font-size:20px;font-family:sans-serif;fill:#000;\">も</text><path d=\"m 16,30 35,-25\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 51,5 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 86,5 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><circle r=\"5\" cx=\"16\" cy=\"30\" style=\"opacity:1;fill:#000;\"></circle><circle r=\"5\" cx=\"51\" cy=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle r=\"5\" cx=\"86\" cy=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle r=\"5\" cx=\"121\" cy=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle r=\"3.25\" cx=\"121\" cy=\"5\" style=\"opacity:1;fill:#fff;\"></circle></svg><!-- accent_end -->",
                         "",
                         "everyone, anyone",
                         "Expressions (phrases, clauses, etc.)"
@@ -1035,7 +954,7 @@
                     "__type__": "Note",
                     "fields": [
                         "知る",
-                        "しる",
+                        "<font color=\"#a4a4ff\">しる<!-- accent_start --><br></font><hr><br><svg class=\"pitch\" width=\"102px\" height=\"75px\" viewBox=\"0 0 102 75\"><text x=\"5\" y=\"67.5\" style=\"font-size:20px;font-family:sans-serif;fill:#000;\">し</text><text x=\"40\" y=\"67.5\" style=\"font-size:20px;font-family:sans-serif;fill:#000;\">る</text><path d=\"m 16,30 35,-25\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 51,5 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><circle r=\"5\" cx=\"16\" cy=\"30\" style=\"opacity:1;fill:#000;\"></circle><circle r=\"5\" cx=\"51\" cy=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle r=\"5\" cx=\"86\" cy=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle r=\"3.25\" cx=\"86\" cy=\"5\" style=\"opacity:1;fill:#fff;\"></circle></svg><!-- accent_end -->",
                         "",
                         "to know, to be aware (of), to be conscious (of), to learn (of), to find out, to discover",
                         "Godan verb with ru ending, Transitive verb"
@@ -1051,7 +970,7 @@
                     "__type__": "Note",
                     "fields": [
                         "後",
-                        "あと",
+                        "<font color=\"#ff0000\">あと<!-- accent_start --><br></font><hr><br><svg class=\"pitch\" width=\"102px\" height=\"75px\" viewBox=\"0 0 102 75\"><text x=\"5\" y=\"67.5\" style=\"font-size:20px;font-family:sans-serif;fill:#000;\">あ</text><text x=\"40\" y=\"67.5\" style=\"font-size:20px;font-family:sans-serif;fill:#000;\">と</text><path d=\"m 16,5 35,25\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 51,30 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><circle r=\"5\" cx=\"16\" cy=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle r=\"5\" cx=\"51\" cy=\"30\" style=\"opacity:1;fill:#000;\"></circle><circle r=\"5\" cx=\"86\" cy=\"30\" style=\"opacity:1;fill:#000;\"></circle><circle r=\"3.25\" cx=\"86\" cy=\"30\" style=\"opacity:1;fill:#fff;\"></circle></svg><!-- accent_end -->",
                         "",
                         "<span style=\"color: rgb(34, 34, 34); background-color: rgb(255, 255, 255);\">after; later</span><span style=\"color: rgb(34, 34, 34); background-color: rgb(255, 255, 255);\">​</span>",
                         "Noun, Noun which may take the genitive case particle 'no'"
@@ -1066,7 +985,7 @@
                     "__type__": "Note",
                     "fields": [
                         "聞く",
-                        "きく",
+                        "<font color=\"#a4a4ff\">きく<!-- accent_start --><br></font><hr><br><svg class=\"pitch\" width=\"102px\" height=\"75px\" viewBox=\"0 0 102 75\"><text x=\"5\" y=\"67.5\" style=\"font-size:20px;font-family:sans-serif;fill:#000;\">き</text><text x=\"40\" y=\"67.5\" style=\"font-size:20px;font-family:sans-serif;fill:#000;\">く</text><path d=\"m 16,30 35,-25\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 51,5 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><circle r=\"5\" cx=\"16\" cy=\"30\" style=\"opacity:1;fill:#000;\"></circle><circle r=\"5\" cx=\"51\" cy=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle r=\"5\" cx=\"86\" cy=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle r=\"3.25\" cx=\"86\" cy=\"5\" style=\"opacity:1;fill:#fff;\"></circle></svg><!-- accent_end -->",
                         "[sound:きく.mp3]",
                         "to hear",
                         "Godan verb with ku ending, Transitive verb"
@@ -1133,6 +1052,104 @@
             },
             "reviewOrder": 0,
             "timer": 0
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "buryInterdayLearning": false,
+            "crowdanki_uuid": "d66f09d0-5dfc-11ed-b5c8-a5b405d6bdfa",
+            "dyn": false,
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 1,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 30,
+            "name": "Sentences",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 3
+            },
+            "newGatherPriority": 0,
+            "newMix": 0,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 0,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 9999
+            },
+            "reviewOrder": 0,
+            "timer": 1
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "buryInterdayLearning": false,
+            "crowdanki_uuid": "d66f7cff-5dfc-11ed-9c9f-a5b405d6bdfa",
+            "dyn": false,
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 1,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 30,
+            "name": "Vocab",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 12
+            },
+            "newGatherPriority": 0,
+            "newMix": 0,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 0,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 9999
+            },
+            "reviewOrder": 0,
+            "timer": 1
         }
     ],
     "desc": "",
@@ -1202,7 +1219,7 @@
             "tags": [],
             "tmpls": [
                 {
-                    "afmt": "{{FrontSide}}\n<hr id=answer>\n<div style='font-family: Arial; font-size: 20px;'>{{Meaning}}</div>\n",
+                    "afmt": "{{FrontSide}}\n<hr id=answer>\n<div style='font-family: Arial; font-size: 20px;'>{{Meaning}}</div>\n{{hint::Audio}}\n",
                     "bafmt": "",
                     "bfont": "",
                     "bqfmt": "",
@@ -1231,7 +1248,7 @@
         {
             "__type__": "NoteModel",
             "crowdanki_uuid": "5f2bb0fb-5d0e-11ed-ab14-f4365065998c",
-            "css": ".card {\n font-family: 'Noto Sans JP', sans-serif;\n font-size: 32px;\n text-align: center\n}\n",
+            "css": ".card {\n font-family: 'Noto Sans JP', sans-serif;\n font-size: 32px;\n text-align: center\n}\n\n#typeans {\n\tfont-family: 'Noto Sans JP', sans-serif;\n\tfont-size: 32px;\n}",
             "flds": [
                 {
                     "description": "",
@@ -1316,7 +1333,7 @@
             "tags": [],
             "tmpls": [
                 {
-                    "afmt": "{{FrontSide}}\n<hr id=answer>\n\n",
+                    "afmt": "<link rel=\"preconnect\" href=\"https://fonts.googleapis.com\">\n<link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin>\n<link href=\"https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@500&display=swap\" rel=\"stylesheet\">\n{{Meaning}}\n<hr id=answer>\n{{type::Expression}}\n{{JishoReading}}\n\n",
                     "bafmt": "",
                     "bfont": "",
                     "bqfmt": "",
@@ -1339,7 +1356,7 @@
                     "scratchPad": true
                 },
                 {
-                    "afmt": "{{FrontSide}}\n<hr id=answer>\n\n",
+                    "afmt": "{{Sound}}\n<hr id=answer>\n{{type:Expression}}\n{{JishoReading}}\n\n",
                     "bafmt": "",
                     "bfont": "",
                     "bqfmt": "",
