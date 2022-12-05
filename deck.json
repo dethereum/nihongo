@@ -3,6 +3,124 @@
     "children": [
         {
             "__type__": "Deck",
+            "children": [
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "7157ff32-74a4-11ed-8108-d24fdb939e40",
+                    "deck_config_uuid": "5f2bb0f8-5d0e-11ed-ac3e-f4365065998c",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [],
+                    "name": "abilities",
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "1",
+                                "あくしゅう",
+                                "Stench",
+                                "stink;bad odor;bad odour;stench",
+                                "第三世代",
+                                "くさい　においを　はなつことによって こうげきした　ときに　あいてを ひるませることが　ある。"
+                            ],
+                            "guid": "BWdxDo?zl^",
+                            "note_model_uuid": "af4c6e6c-74a3-11ed-961d-d24fdb939e40",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "65",
+                                "しんりょく",
+                                "Overgrow",
+                                "fresh verdure; new green leaves",
+                                "第三世代",
+                                "<table><tbody><tr><td>ＨＰが　へったとき くさタイプの　わざの いりょくが　あがる。</td></tr></tbody></table>"
+                            ],
+                            "guid": "xf_7#mk27.",
+                            "note_model_uuid": "af4c6e6c-74a3-11ed-961d-d24fdb939e40",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "168",
+                                "へんげんじざい",
+                                "Protean",
+                                "phantasmagoric; protean; shape-shifting; kaleidoscopic; capable of ever-changing appearance",
+                                "第六世代",
+                                "じぶんが　だす　わざと おなじ　タイプに　へんかする。"
+                            ],
+                            "guid": "l).Rm>PWeG",
+                            "note_model_uuid": "af4c6e6c-74a3-11ed-961d-d24fdb939e40",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "274",
+                                "かぜのり",
+                                "Wind Rider",
+                                "wind riding",
+                                "第九世代"
+                            ],
+                            "guid": "uaG9svVtGf",
+                            "note_model_uuid": "af4c9569-74a3-11ed-9ffd-d24fdb939e40",
+                            "tags": []
+                        }
+                    ]
+                },
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "71582659-74a4-11ed-be36-d24fdb939e40",
+                    "deck_config_uuid": "5f2bb0f8-5d0e-11ed-ac3e-f4365065998c",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [
+                        "256px-Pokedex_Image_Sprigatito_SV.png",
+                        "60px-Menu_SV_Sprigatito.png"
+                    ],
+                    "name": "pkmn",
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "ニャオハ",
+                                "<img alt=\"Pokedex Image Sprigatito SV.png\" src=\"256px-Pokedex_Image_Sprigatito_SV.png\">",
+                                "Sprigatito",
+                                "1",
+                                "The sound a cat makes plus the spanish word for leaf",
+                                "<img alt=\"Sprigatito\" src=\"60px-Menu_SV_Sprigatito.png\">",
+                                "しんりょく",
+                                "へんげんじざい"
+                            ],
+                            "guid": "G}BH9yd<K)",
+                            "note_model_uuid": "af4cbc51-74a3-11ed-83ef-d24fdb939e40",
+                            "tags": [
+                                "ポケモン::イプ::くさタ"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "crowdanki_uuid": "71575213-74a4-11ed-9d40-d24fdb939e40",
+            "deck_config_uuid": "5f2bb0f8-5d0e-11ed-ac3e-f4365065998c",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [],
+            "name": "pokemon",
+            "notes": []
+        },
+        {
+            "__type__": "Deck",
             "children": [],
             "crowdanki_uuid": "5f2aca4d-5d0e-11ed-9309-f4365065998c",
             "deck_config_uuid": "d66f09d0-5dfc-11ed-b5c8-a5b405d6bdfa",
@@ -453,7 +571,7 @@
                     "__type__": "Note",
                     "fields": [
                         "かな",
-                        "かな<!-- accent_start --><br><hr><br><svg class=\"pitch\" width=\"102px\" height=\"75px\" viewBox=\"0 0 102 75\"><text x=\"5\" y=\"67.5\" style=\"font-size:20px;font-family:sans-serif;fill:#000;\">か</text><text x=\"40\" y=\"67.5\" style=\"font-size:20px;font-family:sans-serif;fill:#000;\">な</text><path d=\"m 16,30 35,-25\" style=\"fill:none;stroke:#000;stroke-width:1.5;\" /><path d=\"m 51,5 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\" /><circle r=\"5\" cx=\"16\" cy=\"30\" style=\"opacity:1;fill:#000;\" /><circle r=\"5\" cx=\"51\" cy=\"5\" style=\"opacity:1;fill:#000;\" /><circle r=\"5\" cx=\"86\" cy=\"5\" style=\"opacity:1;fill:#000;\" /><circle r=\"3.25\" cx=\"86\" cy=\"5\" style=\"opacity:1;fill:#fff;\"/></svg><!-- accent_end -->",
+                        "<font color=\"#a4a4ff\">かな</font><!-- accent_start --><br><hr><br><svg class=\"pitch\" width=\"102px\" height=\"75px\" viewBox=\"0 0 102 75\"><text x=\"5\" y=\"67.5\" style=\"font-size:20px;font-family:sans-serif;fill:#000;\">か</text><text x=\"40\" y=\"67.5\" style=\"font-size:20px;font-family:sans-serif;fill:#000;\">な</text><path d=\"m 16,30 35,-25\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 51,5 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><circle r=\"5\" cx=\"16\" cy=\"30\" style=\"opacity:1;fill:#000;\"></circle><circle r=\"5\" cx=\"51\" cy=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle r=\"5\" cx=\"86\" cy=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle r=\"3.25\" cx=\"86\" cy=\"5\" style=\"opacity:1;fill:#fff;\"></circle></svg><!-- accent_end -->",
                         "",
                         "I wonder",
                         "Particle"
@@ -1159,6 +1277,282 @@
     "media_files": [],
     "name": "nihongo",
     "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "af4c6e6c-74a3-11ed-961d-d24fdb939e40",
+            "css": ".card {\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}\n",
+            "flds": [
+                {
+                    "description": "",
+                    "font": "Arial",
+                    "name": "Number",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "description": "Name",
+                    "font": "Arial",
+                    "name": "Name",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "description": "",
+                    "font": "Arial",
+                    "name": "English Name",
+                    "ord": 2,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "description": "",
+                    "font": "Arial",
+                    "name": "Meaning",
+                    "ord": 3,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "description": "",
+                    "font": "Arial",
+                    "name": "Gen",
+                    "ord": 4,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "description": "",
+                    "font": "Arial",
+                    "name": "Flavor Text",
+                    "ord": 5,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Abilities",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        1
+                    ]
+                ]
+            ],
+            "sortf": 1,
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{English Name}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Name}}"
+                }
+            ],
+            "type": 0
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "af4c9569-74a3-11ed-9ffd-d24fdb939e40",
+            "css": ".card {\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}\n",
+            "flds": [
+                {
+                    "description": "",
+                    "font": "Arial",
+                    "name": "Number",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "description": "Name",
+                    "font": "Arial",
+                    "name": "Name",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "description": "",
+                    "font": "Arial",
+                    "name": "English Name",
+                    "ord": 2,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "description": "",
+                    "font": "Arial",
+                    "name": "Meaning",
+                    "ord": 3,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "description": "",
+                    "font": "Arial",
+                    "name": "Gen",
+                    "ord": 4,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Gen 9 Abilities",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        1
+                    ]
+                ]
+            ],
+            "sortf": 1,
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{English Name}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Name}}"
+                }
+            ],
+            "type": 0
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "af4cbc51-74a3-11ed-83ef-d24fdb939e40",
+            "css": ".card {\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}\n",
+            "flds": [
+                {
+                    "description": "",
+                    "font": "Arial",
+                    "name": "Name",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "description": "",
+                    "font": "Arial",
+                    "name": "Image",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "description": "",
+                    "font": "Arial",
+                    "name": "EN name",
+                    "ord": 2,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "description": "",
+                    "font": "Arial",
+                    "name": "Pdex",
+                    "ord": 3,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "description": "",
+                    "font": "Arial",
+                    "name": "Name Origin",
+                    "ord": 4,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "description": "",
+                    "font": "Arial",
+                    "name": "Sprite",
+                    "ord": 5,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "description": "",
+                    "font": "Arial",
+                    "name": "Ability",
+                    "ord": 6,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "description": "",
+                    "font": "Arial",
+                    "name": "Hidden Ability",
+                    "ord": 7,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Paldean Pokemon",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Image}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Name}}"
+                }
+            ],
+            "type": 0
+        },
         {
             "__type__": "NoteModel",
             "crowdanki_uuid": "5f2bb0f4-5d0e-11ed-b5fc-f4365065998c",
