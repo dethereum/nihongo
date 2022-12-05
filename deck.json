@@ -76,6 +76,52 @@
                 {
                     "__type__": "Deck",
                     "children": [],
+                    "crowdanki_uuid": "48b9d410-74b0-11ed-a013-d24fdb939e40",
+                    "deck_config_uuid": "5f2bb0f8-5d0e-11ed-ac3e-f4365065998c",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [],
+                    "name": "attacks",
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "1",
+                                "はたく",
+                                "Pound",
+                                "to slap; to hit (with the palm)",
+                                "第一世代",
+                                "ノーマル",
+                                "ぶつり"
+                            ],
+                            "guid": "mUusZ0+c&~",
+                            "note_model_uuid": "48b9fbc3-74b0-11ed-9adf-d24fdb939e40",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "36",
+                                "とっしん",
+                                "Take Down",
+                                "rush; dash; charge",
+                                "第一世代",
+                                "ノーマル",
+                                "ぶつり"
+                            ],
+                            "guid": "y;o$[+#h22",
+                            "note_model_uuid": "48b9fbc3-74b0-11ed-9adf-d24fdb939e40",
+                            "tags": [
+                                "ポケモン::世代::第九::わざマシン"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "__type__": "Deck",
+                    "children": [],
                     "crowdanki_uuid": "71582659-74a4-11ed-be36-d24fdb939e40",
                     "deck_config_uuid": "5f2bb0f8-5d0e-11ed-ac3e-f4365065998c",
                     "desc": "",
@@ -105,6 +151,32 @@
                             "tags": [
                                 "ポケモン::イプ::くさタ"
                             ]
+                        }
+                    ]
+                },
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "48ba22ca-74b0-11ed-8eec-d24fdb939e40",
+                    "deck_config_uuid": "5f2bb0f8-5d0e-11ed-ac3e-f4365065998c",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [],
+                    "name": "tms",
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "TM001",
+                                "とっしん",
+                                "rush; dash; charge",
+                                "400 LP;Lechonk Hair * 3;Yungoos Fur * 3"
+                            ],
+                            "guid": "nbv(wEldiA",
+                            "note_model_uuid": "48ba22ce-74b0-11ed-be48-d24fdb939e40",
+                            "tags": []
                         }
                     ]
                 }
@@ -1505,6 +1577,123 @@
         },
         {
             "__type__": "NoteModel",
+            "crowdanki_uuid": "48b9fbc3-74b0-11ed-9adf-d24fdb939e40",
+            "css": ".card {\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}\n",
+            "flds": [
+                {
+                    "description": "",
+                    "font": "Arial",
+                    "name": "Number",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "description": "Name",
+                    "font": "Arial",
+                    "name": "Name",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "description": "",
+                    "font": "Arial",
+                    "name": "English Name",
+                    "ord": 2,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "description": "",
+                    "font": "Arial",
+                    "name": "Meaning",
+                    "ord": 3,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "description": "",
+                    "font": "Arial",
+                    "name": "Gen",
+                    "ord": 4,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "description": "",
+                    "font": "Arial",
+                    "name": "Type",
+                    "ord": 5,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "description": "",
+                    "font": "Arial",
+                    "name": "Category",
+                    "ord": 6,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "attacks",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        1
+                    ]
+                ],
+                [
+                    1,
+                    "any",
+                    [
+                        1,
+                        2
+                    ]
+                ]
+            ],
+            "sortf": 1,
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Meaning}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Name}}"
+                },
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Card 2",
+                    "ord": 1,
+                    "qfmt": "{{Name}}\n{{type::English Name}}"
+                }
+            ],
+            "type": 0
+        },
+        {
+            "__type__": "NoteModel",
             "crowdanki_uuid": "af4cbc51-74a3-11ed-83ef-d24fdb939e40",
             "css": ".card {\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}\n",
             "flds": [
@@ -1625,6 +1814,96 @@
                     "name": "Card 2",
                     "ord": 1,
                     "qfmt": "{{Image}}\n\n{{type::Name}}\n"
+                }
+            ],
+            "type": 0
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "48ba22ce-74b0-11ed-be48-d24fdb939e40",
+            "css": ".card {\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}\n",
+            "flds": [
+                {
+                    "description": "",
+                    "font": "Arial",
+                    "name": "TM Number",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "description": "Name",
+                    "font": "Arial",
+                    "name": "Name",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "description": "",
+                    "font": "Arial",
+                    "name": "Meaning",
+                    "ord": 2,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "description": "",
+                    "font": "Arial",
+                    "name": "Craft",
+                    "ord": 3,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "tms",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0,
+                        1
+                    ]
+                ],
+                [
+                    1,
+                    "any",
+                    [
+                        1
+                    ]
+                ]
+            ],
+            "sortf": 1,
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{TM Number}}\n{{type::Name}}"
+                },
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n<div class=\"craft\">{{Craft}}</div>\n\n<script>\nvar craftNode = document.querySelector('.craft');\nvar ingredients = craftNode.innerHTML.split(';');\n\nvar ingredientsHTML = [];\ningredients.forEach(function(fruit){\n  ingredientsHTML.push('<li>' + fruit + '</li>');\n});\n\ncraftNode.innerHTML = ingredientsHTML.join('');\n</script>",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Card 2",
+                    "ord": 1,
+                    "qfmt": "{{Name}}\n"
                 }
             ],
             "type": 0
