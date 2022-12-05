@@ -1348,12 +1348,28 @@
                     [
                         1
                     ]
+                ],
+                [
+                    1,
+                    "any",
+                    [
+                        1,
+                        5
+                    ]
+                ],
+                [
+                    2,
+                    "any",
+                    [
+                        1,
+                        2
+                    ]
                 ]
             ],
             "sortf": 1,
             "tmpls": [
                 {
-                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{English Name}}",
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Meaning}}",
                     "bafmt": "",
                     "bfont": "",
                     "bqfmt": "",
@@ -1362,6 +1378,28 @@
                     "name": "Card 1",
                     "ord": 0,
                     "qfmt": "{{Name}}"
+                },
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Card 2",
+                    "ord": 1,
+                    "qfmt": "{{Flavor Text}}\n{{type:Name}}"
+                },
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Meaning}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Card 3",
+                    "ord": 2,
+                    "qfmt": "{{Name}}\n{{type::English Name}}"
                 }
             ],
             "type": 0
@@ -1428,12 +1466,20 @@
                     [
                         1
                     ]
+                ],
+                [
+                    1,
+                    "any",
+                    [
+                        1,
+                        2
+                    ]
                 ]
             ],
             "sortf": 1,
             "tmpls": [
                 {
-                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{English Name}}",
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Meaning}}",
                     "bafmt": "",
                     "bfont": "",
                     "bqfmt": "",
@@ -1442,6 +1488,17 @@
                     "name": "Card 1",
                     "ord": 0,
                     "qfmt": "{{Name}}"
+                },
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Card 2",
+                    "ord": 1,
+                    "qfmt": "{{Name}}\n{{type::English Name}}"
                 }
             ],
             "type": 0
@@ -1535,6 +1592,14 @@
                     [
                         0
                     ]
+                ],
+                [
+                    1,
+                    "any",
+                    [
+                        0,
+                        1
+                    ]
                 ]
             ],
             "sortf": 0,
@@ -1549,6 +1614,17 @@
                     "name": "Card 1",
                     "ord": 0,
                     "qfmt": "{{Name}}"
+                },
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Card 2",
+                    "ord": 1,
+                    "qfmt": "{{Image}}\n\n{{type::Name}}\n"
                 }
             ],
             "type": 0
