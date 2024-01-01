@@ -11,9 +11,28 @@
             "extendNew": 0,
             "extendRev": 0,
             "media_files": [
+                "1174420.mp3",
+                "1177800.mp3",
+                "1184140.mp3",
+                "1188770.mp3",
+                "1223640.mp3",
                 "1242130.mp3",
                 "1260720.mp3",
-                "1339260.mp3"
+                "1264420.mp3",
+                "1268990.mp3",
+                "1269060.mp3",
+                "1293780.mp3",
+                "1308640.mp3",
+                "1315920.mp3",
+                "1329000.mp3",
+                "1339260.mp3",
+                "1358280.mp3",
+                "1360010.mp3",
+                "1454670.mp3",
+                "1464530.mp3",
+                "1533580.mp3",
+                "1554310.mp3",
+                "1582710.mp3"
             ],
             "name": "vocab",
             "newLimit": null,
@@ -29,7 +48,9 @@
                     ],
                     "guid": "hP<xm]#?>1",
                     "note_model_uuid": "5f2bb0fb-5d0e-11ed-ab14-f4365065998c",
-                    "tags": []
+                    "tags": [
+                        "teppei::23::12::28"
+                    ]
                 },
                 {
                     "__type__": "Note",
@@ -40,7 +61,9 @@
                     ],
                     "guid": "tBWpPO45{V",
                     "note_model_uuid": "ff974776-a82b-11ee-900d-834957409e33",
-                    "tags": []
+                    "tags": [
+                        "teppei::23::12::28"
+                    ]
                 },
                 {
                     "__type__": "Note",
@@ -52,7 +75,9 @@
                     ],
                     "guid": "nh-kLr]tp1",
                     "note_model_uuid": "5f2bb0fb-5d0e-11ed-ab14-f4365065998c",
-                    "tags": []
+                    "tags": [
+                        "teppei::23::12::28"
+                    ]
                 },
                 {
                     "__type__": "Note",
@@ -63,7 +88,9 @@
                     ],
                     "guid": "q#yWD#@lD1",
                     "note_model_uuid": "ff974776-a82b-11ee-900d-834957409e33",
-                    "tags": []
+                    "tags": [
+                        "teppei::23::12::28"
+                    ]
                 },
                 {
                     "__type__": "Note",
@@ -74,7 +101,523 @@
                     ],
                     "guid": "MBJx6D629L",
                     "note_model_uuid": "ff974776-a82b-11ee-900d-834957409e33",
-                    "tags": []
+                    "tags": [
+                        "teppei::23::12::28"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "遠い",
+                        "<span class=\"pitch-accent-StyleType.LOW_FROM_LOW\" style=\"border-bottom: 2px solid red;\">と</span><span class=\"pitch-accent-StyleType.HIGH_FROM_LOW\" style=\"border-left: 2px solid red; border-top: 2px solid red;\">おい</span>",
+                        "[sound:1177800.mp3]",
+                        "far"
+                    ],
+                    "guid": "g+0<v2dW{I",
+                    "note_model_uuid": "5f2bb0fb-5d0e-11ed-ab14-f4365065998c",
+                    "tags": [
+                        "teppei::23::12::28"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "面白い",
+                        "<span class=\"pitch-accent-StyleType.LOW_FROM_LOW\" style=\"border-bottom: 2px solid red;\">お</span><span class=\"pitch-accent-StyleType.HIGH_FROM_LOW\" style=\"border-left: 2px solid red; border-top: 2px solid red;\">もしろ</span><span class=\"pitch-accent-StyleType.LOW_FROM_HIGH\" style=\"border-left: 2px solid red; border-bottom: 2px solid red;\">い</span>",
+                        "[sound:1533580.mp3]",
+                        ""
+                    ],
+                    "guid": "FeZbPXaMaW",
+                    "note_model_uuid": "5f2bb0fb-5d0e-11ed-ab14-f4365065998c",
+                    "tags": [
+                        "teppei::23::12::28"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "めっちゃ",
+                        "",
+                        "very; extremely; excessively​"
+                    ],
+                    "guid": "nmlAn9,Md>",
+                    "note_model_uuid": "ff974776-a82b-11ee-900d-834957409e33",
+                    "tags": [
+                        "teppei::23::12::28"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "フィラデルフィア",
+                        "",
+                        "Philadelphia"
+                    ],
+                    "guid": "g[U8&Z*~O~",
+                    "note_model_uuid": "ff974776-a82b-11ee-900d-834957409e33",
+                    "tags": [
+                        "teppei::23::12::28"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "ニューヨーク",
+                        "",
+                        "New York"
+                    ],
+                    "guid": "yz}:?68B`Z",
+                    "note_model_uuid": "ff974776-a82b-11ee-900d-834957409e33",
+                    "tags": [
+                        "teppei::23::12::28"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "この",
+                        "<span class=\"pitch-accent-StyleType.LOW_FROM_LOW\" style=\"border-bottom: 2px solid red;\">こ</span><span class=\"pitch-accent-StyleType.HIGH_FROM_LOW\" style=\"border-left: 2px solid red; border-top: 2px solid red;\">の</span>",
+                        "this​"
+                    ],
+                    "guid": "h8`drIvZ63",
+                    "note_model_uuid": "ff974776-a82b-11ee-900d-834957409e33",
+                    "tags": [
+                        "teppei::23::12::28"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "ラーメン",
+                        "",
+                        "Ramen"
+                    ],
+                    "guid": "F]w:W+~*i[",
+                    "note_model_uuid": "ff974776-a82b-11ee-900d-834957409e33",
+                    "tags": [
+                        "teppei::23::12::28"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "趣味",
+                        "<span class=\"pitch-accent-StyleType.HIGH_FROM_HIGH\" style=\"border-top: 2px solid red;\">しゅ</span><span class=\"pitch-accent-StyleType.LOW_FROM_HIGH\" style=\"border-left: 2px solid red; border-bottom: 2px solid red;\">み</span>",
+                        "[sound:1329000.mp3]",
+                        "hobby"
+                    ],
+                    "guid": "CD^Z`}ul[2",
+                    "note_model_uuid": "5f2bb0fb-5d0e-11ed-ab14-f4365065998c",
+                    "tags": [
+                        "teppei::23::12::28"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<span class=\"pitch-accent\">言語</span>",
+                        "<span class=\"pitch-accent-StyleType.HIGH_FROM_HIGH\" style=\"border-top: 2px solid red;\">げ</span><span class=\"pitch-accent-StyleType.LOW_FROM_HIGH\" style=\"border-left: 2px solid red; border-bottom: 2px solid red;\">んご</span>",
+                        "[sound:1264420.mp3]",
+                        "language"
+                    ],
+                    "guid": "L:;/>PMGE:",
+                    "note_model_uuid": "5f2bb0fb-5d0e-11ed-ab14-f4365065998c",
+                    "tags": [
+                        "teppei::23::12::28"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "学習",
+                        "しゅう",
+                        "learning"
+                    ],
+                    "guid": "hA{VUlAm-d",
+                    "note_model_uuid": "ff974776-a82b-11ee-900d-834957409e33",
+                    "tags": [
+                        "teppei::23::12::28"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "アニメ",
+                        "",
+                        "anime"
+                    ],
+                    "guid": "kCCX^1Xa*J",
+                    "note_model_uuid": "ff974776-a82b-11ee-900d-834957409e33",
+                    "tags": [
+                        "teppei::23::12::28"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "エクササイズ",
+                        "",
+                        "exercise"
+                    ],
+                    "guid": "J7~=4)S#`X",
+                    "note_model_uuid": "ff974776-a82b-11ee-900d-834957409e33",
+                    "tags": [
+                        "teppei::23::12::28"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "何時",
+                        "なんじ",
+                        "[sound:1188770.mp3]",
+                        "What time"
+                    ],
+                    "guid": "uMp5o*fQZ+",
+                    "note_model_uuid": "5f2bb0fb-5d0e-11ed-ab14-f4365065998c",
+                    "tags": [
+                        "teppei::23::12::29"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "時間",
+                        "",
+                        "[sound:1315920.mp3]",
+                        "Time"
+                    ],
+                    "guid": "p5GStOy)ag",
+                    "note_model_uuid": "5f2bb0fb-5d0e-11ed-ab14-f4365065998c",
+                    "tags": [
+                        "teppei::23::12::29"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "何時間",
+                        "",
+                        "how many hours"
+                    ],
+                    "guid": "OO3Xjs>Iod",
+                    "note_model_uuid": "ff974776-a82b-11ee-900d-834957409e33",
+                    "tags": [
+                        "teppei::23::12::29"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<span class=\"pitch-accent\">寝る</span>",
+                        "<span class=\"pitch-accent-StyleType.LOW_FROM_LOW\" style=\"border-bottom: 2px solid red;\">ね</span><span class=\"pitch-accent-StyleType.HIGH_FROM_LOW\" style=\"border-left: 2px solid red; border-top: 2px solid red;\">る</span>",
+                        "[sound:1360010.mp3]",
+                        "to sleep"
+                    ],
+                    "guid": "tp$(D/jq{J",
+                    "note_model_uuid": "5f2bb0fb-5d0e-11ed-ab14-f4365065998c",
+                    "tags": [
+                        "teppei::23::12::29"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<span style=\"font-weight:600\">いつも</span>",
+                        "",
+                        "always; all the time; at all times​"
+                    ],
+                    "guid": "LC0d3JNqGu",
+                    "note_model_uuid": "ff974776-a82b-11ee-900d-834957409e33",
+                    "tags": [
+                        "teppei::23::12::29"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "最近",
+                        "<span class=\"pitch-accent-StyleType.LOW_FROM_LOW\" style=\"border-bottom: 2px solid red;\">さ</span><span class=\"pitch-accent-StyleType.HIGH_FROM_LOW\" style=\"border-left: 2px solid red; border-top: 2px solid red;\">いきん</span>",
+                        "[sound:1293780.mp3]",
+                        "recently"
+                    ],
+                    "guid": "na;C6GP7+]",
+                    "note_model_uuid": "5f2bb0fb-5d0e-11ed-ab14-f4365065998c",
+                    "tags": [
+                        "teppei::23::12::29"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "午前",
+                        "<span class=\"pitch-accent-StyleType.HIGH_FROM_HIGH\" style=\"border-top: 2px solid red;\">ご</span><span class=\"pitch-accent-StyleType.LOW_FROM_HIGH\" style=\"border-left: 2px solid red; border-bottom: 2px solid red;\">ぜん</span>",
+                        "[sound:1269060.mp3]",
+                        "morning; a.m."
+                    ],
+                    "guid": "iSs**!Z-.t",
+                    "note_model_uuid": "5f2bb0fb-5d0e-11ed-ab14-f4365065998c",
+                    "tags": [
+                        "teppei::23::12::29"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<span class=\"pitch-accent\">午後</span>",
+                        "<span class=\"pitch-accent-StyleType.HIGH_FROM_HIGH\" style=\"border-top: 2px solid red;\">ご</span><span class=\"pitch-accent-StyleType.LOW_FROM_HIGH\" style=\"border-left: 2px solid red; border-bottom: 2px solid red;\">ご</span>",
+                        "[sound:1268990.mp3]",
+                        "afternoon; p.m."
+                    ],
+                    "guid": "OiE-}S<,xa",
+                    "note_model_uuid": "5f2bb0fb-5d0e-11ed-ab14-f4365065998c",
+                    "tags": [
+                        "teppei::23::12::29"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<span class=\"pitch-accent\">起きる</span>",
+                        "<span class=\"pitch-accent-StyleType.LOW_FROM_LOW\" style=\"border-bottom: 2px solid red;\">お</span><span class=\"pitch-accent-StyleType.HIGH_FROM_LOW\" style=\"border-left: 2px solid red; border-top: 2px solid red;\">き</span><span class=\"pitch-accent-StyleType.LOW_FROM_HIGH\" style=\"border-left: 2px solid red; border-bottom: 2px solid red;\">る</span>",
+                        "[sound:1223640.mp3]",
+                        "to get up; to rise;"
+                    ],
+                    "guid": "finF,}(4bw",
+                    "note_model_uuid": "5f2bb0fb-5d0e-11ed-ab14-f4365065998c",
+                    "tags": [
+                        "teppei::23::12::29"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<span class=\"pitch-accent\">しない</span>",
+                        "<span class=\"pitch-accent-StyleType.HIGH_FROM_HIGH\" style=\"border-top: 2px solid red;\">し</span><span class=\"pitch-accent-StyleType.LOW_FROM_HIGH\" style=\"border-left: 2px solid red; border-bottom: 2px solid red;\">ない</span>",
+                        "[sound:1308640.mp3]",
+                        "to not do"
+                    ],
+                    "guid": "FYi*,JnF}J",
+                    "note_model_uuid": "5f2bb0fb-5d0e-11ed-ab14-f4365065998c",
+                    "tags": [
+                        "teppei::23::12::29"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<span class=\"pitch-accent\">した</span>",
+                        "<span class=\"pitch-accent-StyleType.LOW_FROM_LOW\" style=\"border-bottom: 2px solid red;\">し</span><span class=\"pitch-accent-StyleType.HIGH_FROM_LOW\" style=\"border-left: 2px solid red; border-top: 2px solid red;\">た</span>",
+                        "[sound:1184140.mp3]",
+                        "did"
+                    ],
+                    "guid": "C8#`:.g|U?",
+                    "note_model_uuid": "5f2bb0fb-5d0e-11ed-ab14-f4365065998c",
+                    "tags": [
+                        "teppei::23::12::29"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "何も",
+                        "",
+                        "nothing"
+                    ],
+                    "guid": "hya0QCcw1_",
+                    "note_model_uuid": "ff974776-a82b-11ee-900d-834957409e33",
+                    "tags": [
+                        "teppei::23::12::29"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "韓国語",
+                        "",
+                        "Korean (language)"
+                    ],
+                    "guid": "x+vKeac0;<",
+                    "note_model_uuid": "ff974776-a82b-11ee-900d-834957409e33",
+                    "tags": [
+                        "teppei::23::12::29"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "ベトナム語&nbsp;",
+                        "",
+                        "Vietnamese (language)"
+                    ],
+                    "guid": "P+xk+2A*2D",
+                    "note_model_uuid": "ff974776-a82b-11ee-900d-834957409e33",
+                    "tags": [
+                        "teppei::23::12::29"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "中国語",
+                        "",
+                        "Chinese (language)"
+                    ],
+                    "guid": "Jf~oZy^f;~",
+                    "note_model_uuid": "ff974776-a82b-11ee-900d-834957409e33",
+                    "tags": [
+                        "teppei::23::12::29"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "タイ語",
+                        "",
+                        "Thai (language)"
+                    ],
+                    "guid": "IZM)!^<hto",
+                    "note_model_uuid": "ff974776-a82b-11ee-900d-834957409e33",
+                    "tags": [
+                        "teppei::23::12::29"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "日本語",
+                        "",
+                        "[sound:1464530.mp3]",
+                        "Japanese (language)"
+                    ],
+                    "guid": "EtS*@RT#:2",
+                    "note_model_uuid": "5f2bb0fb-5d0e-11ed-ab14-f4365065998c",
+                    "tags": [
+                        "teppei::23::12::29"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<span class=\"pitch-accent\">英語</span>",
+                        "<span class=\"pitch-accent-StyleType.LOW_FROM_LOW\" style=\"border-bottom: 2px solid red;\">え</span><span class=\"pitch-accent-StyleType.HIGH_FROM_LOW\" style=\"border-left: 2px solid red; border-top: 2px solid red;\">いご</span>",
+                        "[sound:1174420.mp3]",
+                        "English (language)"
+                    ],
+                    "guid": "k6E}lw[>b`",
+                    "note_model_uuid": "5f2bb0fb-5d0e-11ed-ab14-f4365065998c",
+                    "tags": [
+                        "teppei::23::12::29"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "スペイン語&nbsp;",
+                        "",
+                        "",
+                        "Spanish (language)"
+                    ],
+                    "guid": "eZ.kK@e=_Q",
+                    "note_model_uuid": "5f2bb0fb-5d0e-11ed-ab14-f4365065998c",
+                    "tags": [
+                        "teppei::23::12::29"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<span class=\"pitch-accent\">特に</span>",
+                        "<span class=\"pitch-accent-StyleType.HIGH_FROM_HIGH\" style=\"border-top: 2px solid red;\">と</span><span class=\"pitch-accent-StyleType.LOW_FROM_HIGH\" style=\"border-left: 2px solid red; border-bottom: 2px solid red;\">くに</span>",
+                        "[sound:1454670.mp3]",
+                        "especially"
+                    ],
+                    "guid": "m&u3nANSc7",
+                    "note_model_uuid": "5f2bb0fb-5d0e-11ed-ab14-f4365065998c",
+                    "tags": [
+                        "teppei::23::12::29"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<div><div>なかで</div></div>",
+                        "",
+                        "among/in"
+                    ],
+                    "guid": "OY89`T(6vB",
+                    "note_model_uuid": "ff974776-a82b-11ee-900d-834957409e33",
+                    "tags": [
+                        "teppei::23::12::29"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<span class=\"pitch-accent\">りょうり</span>",
+                        "<span class=\"pitch-accent-StyleType.HIGH_FROM_HIGH\" style=\"border-top: 2px solid red;\">りょ</span><span class=\"pitch-accent-StyleType.LOW_FROM_HIGH\" style=\"border-left: 2px solid red; border-bottom: 2px solid red;\">うり</span>",
+                        "[sound:1554310.mp3]",
+                        "cooking; cookery; cuisine; meal; food; dish; item on a menu"
+                    ],
+                    "guid": "fK1D&]kOX)",
+                    "note_model_uuid": "5f2bb0fb-5d0e-11ed-ab14-f4365065998c",
+                    "tags": [
+                        "teppei::23::12::29"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<span class=\"pitch-accent\">にほん</span>",
+                        "<span class=\"pitch-accent-StyleType.LOW_FROM_LOW\" style=\"border-bottom: 2px solid red;\">に</span><span class=\"pitch-accent-StyleType.HIGH_FROM_LOW\" style=\"border-left: 2px solid red; border-top: 2px solid red;\">ほ</span><span class=\"pitch-accent-StyleType.LOW_FROM_HIGH\" style=\"border-left: 2px solid red; border-bottom: 2px solid red;\">ん</span>",
+                        "[sound:1582710.mp3]",
+                        "Japan"
+                    ],
+                    "guid": "tQG2n*Z78.",
+                    "note_model_uuid": "5f2bb0fb-5d0e-11ed-ab14-f4365065998c",
+                    "tags": [
+                        "teppei::23::12::29"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "しゃぶしゃぶ",
+                        "<span class=\"pitch-accent-StyleType.LOW_FROM_LOW\" style=\"border-bottom: 2px solid red;\">しゃ</span><span class=\"pitch-accent-StyleType.HIGH_FROM_LOW\" style=\"border-left: 2px solid red; border-top: 2px solid red;\">ぶしゃぶ</span>",
+                        "shabu-shabu; hot pot dish where thinly sliced meat is boiled quickly and then dipped in sauce​"
+                    ],
+                    "guid": "g?q$_M$nxj",
+                    "note_model_uuid": "ff974776-a82b-11ee-900d-834957409e33",
+                    "tags": [
+                        "teppei::23::12::29"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "たべる",
+                        "",
+                        "[sound:1358280.mp3]",
+                        "<span style=\"color: rgb(238, 238, 238); background-color: rgb(42, 42, 42);\">to eat</span>"
+                    ],
+                    "guid": "dloi-ar!.P",
+                    "note_model_uuid": "5f2bb0fb-5d0e-11ed-ab14-f4365065998c",
+                    "tags": [
+                        "teppei::23::12::29"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "そば",
+                        "<span class=\"pitch-accent-StyleType.HIGH_FROM_HIGH\" style=\"border-top: 2px solid red;\">そ</span><span class=\"pitch-accent-StyleType.LOW_FROM_HIGH\" style=\"border-left: 2px solid red; border-bottom: 2px solid red;\">ば</span>",
+                        "Japanese thin buckwheat noodles​"
+                    ],
+                    "guid": "zF#s59Vu-i",
+                    "note_model_uuid": "ff974776-a82b-11ee-900d-834957409e33",
+                    "tags": [
+                        "teppei::23::12::29"
+                    ]
                 }
             ],
             "reviewLimit": null,
